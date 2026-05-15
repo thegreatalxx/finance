@@ -53,6 +53,30 @@ export async function generateMetadata({ params }: Props) {
   }
 }
 
+function cleanMarkdown(content: string): string {
+  let lines = content.split('\n')
+  
+  lines = lines.filter(line => !line.match(/^By[A-Za-z\s]+$/) && !line.match(/^Updated[A-Za-z0-9\s,]+$/))
+  
+  while (lines.length > 0 && (lines[0].startsWith('# ') || lines[0].trim() === '')) {
+    lines.shift()
+  }
+  
+  while (lines.length > 0 && lines[0].trim() === '---') {
+    lines.shift()
+  }
+  
+  while (lines.length > 0 && lines[lines.length - 1].trim() === '---') {
+    lines.pop()
+  }
+  
+  while (lines.length > 0 && lines[lines.length - 1].trim() === '') {
+    lines.pop()
+  }
+  
+  return lines.join('\n').trim()
+}
+
 export default async function ArticlePage({ params }: Props) {
   const category = getCategoryInfo(params.category)
   if (!category) notFound()
@@ -60,10 +84,12 @@ export default async function ArticlePage({ params }: Props) {
   const article = await getArticleContent(params.category, params.slug)
   if (!article) notFound()
 
+  const cleanedContent = cleanMarkdown(article.content)
+
   const processedContent = await remark()
     .use(remarkGfm)
     .use(remarkHtml)
-    .process(article.content)
+    .process(cleanedContent)
   const contentHtml = processedContent.toString()
 
   return (
