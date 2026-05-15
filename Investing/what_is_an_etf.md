@@ -2,7 +2,7 @@
 
 BySteve Katuska
 
-UpdatedFebruary 16, 2026
+Updated February 16, 2026
 
 ---
 
@@ -97,18 +97,4 @@ If ETFs were a family of mostly straight-laced marketable assets, thematic ETFs 
 ## Complex ETFs
 
 There are many, many ETFs that don’t necessarily bet on the stock market just going up. These leveraged ETFs and inverse exchange-traded funds should be avoided by the average investor — unless you absolutely know what you’re doing and would, say, be able to explain how derivatives work to a third-grader.
-
-TheAlxLabs Finance. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by TheAlxLabs Finance. (“TheAlxLabs Finance. If you are interested in learning about how TheAlxLabs Finance. If you are interested in knowing which products are offered by TheAlxLabs Finance.
-
-## Build your own portfolio your way with stocks, ETFs, and options
-
-## Discover more about
-
-## Passive Investing: What It Is and How It Works
-
-## How the stock market works
-
-## Buying on Margin: How It Works and Key Risks
-
----
 

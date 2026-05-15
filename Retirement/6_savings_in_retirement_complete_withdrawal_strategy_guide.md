@@ -2,7 +2,7 @@
 
 ByThe Editors
 
-UpdatedMarch 23, 2026
+Updated March 23, 2026
 
 ---
 
@@ -169,36 +169,4 @@ Spouse as beneficiary: They may be able to transfer the assets to their RRSP wit
 TFSAs are simpler, especially if you named your spouse as a successor holder. The assets simply become theirs and keep growing tax-free.
 
 Without a beneficiary, TFSA assets go to an heir who must move them into their own TFSA (if they have contribution room) or pay taxable gains on growth after your passing.
-
-TheAlxLabs Finance. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by TheAlxLabs Finance. (“TheAlxLabs Finance. If you are interested in learning about how TheAlxLabs Finance. If you are interested in knowing which products are offered by TheAlxLabs Finance.
-
-## Frequently asked questions about savings in retirement
-
-## What is the average retirement savings in Canada?
-
-Average retirement savings hover in the low six figures for those nearing retirement, but it's more important to focus on your personal budget and income needs than national benchmarks.
-
-## How many Canadians retire with $1,000,000 saved?
-
-While "being a millionaire" is a frequently used benchmark, it's not the reality for most retirees — and you may not need seven figures if you have a strong pension or modest spending needs.
-
-## What retirement mistakes can cost you the most?
-
-The most costly mistakes include withdrawing in the wrong tax order, claiming CPP/OAS too early without good reason, reacting emotionally to market volatility, and underestimating how long you'll live.
-
-## How much does a $100,000 annual pension pay per month?
-
-A $100,000 annual pension pays roughly $8,333 per month before taxes, but your take-home depends on your province and other income sources.
-
-## Grow your retirement savings
-
-## Discover more about
-
-## How to Save for Retirement in Canada: Complete Guide
-
-## How to use tax-advantaged accounts to fund your retirement
-
-## How to Invest at Any Age: A Canadian Guide
-
----
 

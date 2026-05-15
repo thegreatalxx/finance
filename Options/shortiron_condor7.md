@@ -1,8 +1,8 @@
 # Short iron condor
 
-ByThe Editors
+By The Editors
 
-UpdatedMay 13, 2026
+Updated May 13, 2026
 
 ---
 
@@ -235,10 +235,4 @@ If Jill wants to avoid any post-expiration stock positions, the safest move is t
 ## Putting it all together
 
 A short iron condor is a defined-risk strategy that aims to profit from a quiet market. A premium is collected on both sides of the current stock price, and as long as the stock price stays between the short strikes, maximum profit is achieved. The wings cap losses if prices move against the position either way. It's not the highest-paying strategy — the wings cost money — but for investors who want to maximize potential profit from decreased volatility without unlimited exposure, the trade-off can be worth it.
-
-TheAlxLabs Finance. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by TheAlxLabs Finance. (“TheAlxLabs Finance. If you are interested in learning about how TheAlxLabs Finance. If you are interested in knowing which products are offered by TheAlxLabs Finance.
-
-## Build your own portfolio your way with stocks, ETFs, and options
-
----
 

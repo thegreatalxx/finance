@@ -2,7 +2,7 @@
 
 ByMorgana Clarke
 
-UpdatedJanuary 7, 2026
+Updated January 7, 2026
 
 ---
 
@@ -97,18 +97,4 @@ Spend a lot of time on the road? A card that offers the highest cash back percen
 Plan to use your card for everyday spending that spans most categories? Consider a card that offers a reasonable flat earning rate for all categories.
 
 In any scenario, you’ll also want to consider whether or not there’s a cap on eligible cash back too, since that can impact how much you earn overall.
-
-TheAlxLabs Finance. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by TheAlxLabs Finance. (“TheAlxLabs Finance. If you are interested in learning about how TheAlxLabs Finance. If you are interested in knowing which products are offered by TheAlxLabs Finance.
-
-## Spend and save with one account
-
-## Discover more about
-
-## Cash Back vs Reward Points: Which Credit Card Wins?
-
-## Cash advances: what they are, how they work, and their impact on your finances
-
-## How does credit card interest work
-
----
 

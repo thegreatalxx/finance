@@ -2,7 +2,7 @@
 
 ByThe Editors
 
-UpdatedNovember 16, 2023
+Updated November 16, 2023
 
 ---
 
@@ -87,18 +87,4 @@ However, if you cannot complete the online form submission, you can submit your 
 ## Reporting a T5018 on your tax return
 
 If you have received a T5018 slip (you’re the receiving subcontractor), include this income as part of your self-employment income.
-
-TheAlxLabs Finance. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by TheAlxLabs Finance. (“TheAlxLabs Finance. If you are interested in learning about how TheAlxLabs Finance. If you are interested in knowing which products are offered by TheAlxLabs Finance.
-
-## File with confidence and get the most out of your return for as little as $0
-
-## Discover more about
-
-## Canadian tax brackets for 2025
-
-## Capital gains tax in Canada in 2026
-
-## Canada tax return basics and checklist
-
----
 

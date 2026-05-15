@@ -2,7 +2,7 @@
 
 ByThe Editors
 
-UpdatedApril 15, 2026
+Updated April 15, 2026
 
 ---
 
@@ -91,22 +91,4 @@ Benefit: Time in market
 Borrowing against your portfolio keeps your investments growing in the market. While you’re covering your life expenses, your stocks and bonds continue to benefit from compounding, the snowball effect of any investment gains, dividends and interest earned being reinvested into the market and passively growing your wealth.
 
 Keep in mind that when you’re using any line of credit, you’re borrowing against your future self. When you consider using a portfolio line of credit, you should have a clear and realistic repayment plan in mind.
-
-TheAlxLabs Finance. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by TheAlxLabs Finance. (“TheAlxLabs Finance. If you are interested in learning about how TheAlxLabs Finance. If you are interested in knowing which products are offered by TheAlxLabs Finance.
-
-## Do I still earn dividends?
-
-Yes. When you’re using a portfolio line of credit, you still own your assets — you’re just essentially using them as a security deposit. Your holdings will continue to grow in the market, and if you own any dividend stocks you’ll continue to receive those payouts.
-
-## Is a portfolio line of credit the same as margin?
-
-They’re similar but are typically used differently. While they use the same mechanism of borrowing against investments, a margin loan is typically used to buy more securities, though it can be used for cash as well. In comparison, a portfolio line of credit is often used to cover life expenses, although it can be used to buy securities, too. You are often provided a lower credit limit with a portfolio line of credit.
-
-## Does having a portfolio line of credit require a credit check?
-
-No. Since a portfolio line of credit is secured by your investments, your brokerage typically won’t need to perform a credit check to offer you the line of credit, so that won’t trigger a request on your credit score. However, if you end up in default on your loan, that could ding your credit score.
-
-## Build your own portfolio your way with stocks, ETFs, and options
-
----
 

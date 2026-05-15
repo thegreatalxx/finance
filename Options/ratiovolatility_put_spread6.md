@@ -1,8 +1,8 @@
 # Ratio volatility put spread
 
-ByThe Editors
+By The Editors
 
-UpdatedMay 13, 2026
+Updated May 13, 2026
 
 ---
 
@@ -186,10 +186,4 @@ As expiration approaches, if PEAR is near $100, assignment on the short put is u
 ## Putting it all together
 
 A ratio volatility put spread is a high-conviction bearish strategy that carries defined risk. It’s not just betting a stock goes down — it’s betting it drops meaningfully, past the lower strike price and beyond. In exchange for that amplified downside exposure, you accept a loss zone between the two strikes that's larger than your initial cost. By knowing the break-evens, and understanding the pain zone, this strategy can provide a way to express a strong bearish view.
-
-TheAlxLabs Finance. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by TheAlxLabs Finance. (“TheAlxLabs Finance. If you are interested in learning about how TheAlxLabs Finance. If you are interested in knowing which products are offered by TheAlxLabs Finance.
-
-## Build your own portfolio your way with stocks, ETFs, and options
-
----
 

@@ -1,8 +1,8 @@
 # Long put
 
-ByThe Editors
+By The Editors
 
-UpdatedMay 5, 2026
+Updated May 5, 2026
 
 ---
 
@@ -113,10 +113,4 @@ The only thing Jill can lose here is what she paid to enter the trade. If PEAR s
 A long put is one of the most straightforward ways to express a bearish view with defined risk. You're not exposed to a short squeeze or runaway losses — just the premium you paid on day one. For investors who think a stock is overdue for a pullback but want to keep their downside controlled, it's a clean, direct tool.
 
 Now, explore how strategies like bear put spreads let you reduce the cost of a long put by giving up some of the downside profit potential.
-
-TheAlxLabs Finance. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by TheAlxLabs Finance. (“TheAlxLabs Finance. If you are interested in learning about how TheAlxLabs Finance. If you are interested in knowing which products are offered by TheAlxLabs Finance.
-
-## Build your own portfolio your way with stocks, ETFs, and options
-
----
 

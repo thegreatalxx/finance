@@ -1,8 +1,8 @@
 # Contract size and quantity
 
-ByThe Editors
+By The Editors
 
-UpdatedMay 5, 2026
+Updated May 5, 2026
 
 ---
 
@@ -73,10 +73,4 @@ Leverage can work in your favour when a trade goes well. But it can also amplify
 ## Putting it all together
 
 Contract size and quantity are the foundation of options math. Every calculation — total cost, max profit, max loss, break-even — starts here. Once you have these two numbers down, the rest follows naturally.
-
-TheAlxLabs Finance. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by TheAlxLabs Finance. (“TheAlxLabs Finance. If you are interested in learning about how TheAlxLabs Finance. If you are interested in knowing which products are offered by TheAlxLabs Finance.
-
-## Build your own portfolio your way with stocks, ETFs, and options
-
----
 

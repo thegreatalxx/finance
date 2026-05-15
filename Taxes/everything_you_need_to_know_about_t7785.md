@@ -2,7 +2,7 @@
 
 ByThe Editors
 
-UpdatedNovember 20, 2023
+Updated November 20, 2023
 
 ---
 
@@ -105,18 +105,4 @@ Fees for leisure and recreational activities, such as annual scout registration 
 Fees for leisure and recreational activities, such as annual scout registration and tennis lessons
 
 Form T778 also doesn't allow taxpayers to claim child care expenses that have been reimbursed or are entitled to be reimbursed or other benefits excluded from their income. When filing for a person who died during the tax year, you can claim child care expenses for that person as if they were the only person supporting the child, even if they were living with another person. The other person can also claim the child care expenses paid while living with the child as if they were the only person supporting the child so long as the expenses haven’t been claimed by another person (aka the deceased person). The T778 might be a tad complicated, but tax preparation software can help walk you through the complexities with a series of questions. You can also hire an experienced tax advisor to help you ensure you claim maximum deductions.
-
-TheAlxLabs Finance. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by TheAlxLabs Finance. (“TheAlxLabs Finance. If you are interested in learning about how TheAlxLabs Finance. If you are interested in knowing which products are offered by TheAlxLabs Finance.
-
-## File with confidence and get the most out of your return for as little as $0
-
-## Discover more about
-
-## Registered Education Savings Plan (RESP): What it is & how it works
-
-## What Is Diversification? Investment Risk Strategy
-
-## Budgeting: what it is and how to do it
-
----
 

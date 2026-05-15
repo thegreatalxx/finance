@@ -2,7 +2,7 @@
 
 ByAli Perdue
 
-UpdatedJanuary 7, 2026
+Updated January 7, 2026
 
 ---
 
@@ -115,18 +115,4 @@ Report suspicious activity. Help protect other investors. If all signs point to 
 Report suspicious activity. Help protect other investors. If all signs point to a pump-and-dump, report the fraud to your local police department.
 
 While the promise of insider info and quick gains can be tempting, recognizing red flags and verifying information are key to avoiding pump-and-dump schemes. Staying cautious is always a good thing when it comes to investing; it’ll help you avoid being left with losses when hype fades.
-
-TheAlxLabs Finance. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by TheAlxLabs Finance. (“TheAlxLabs Finance. If you are interested in learning about how TheAlxLabs Finance. If you are interested in knowing which products are offered by TheAlxLabs Finance.
-
-## Open an account for your investing and saving goals
-
-## Discover more about
-
-## TFSA vs. RRSP vs. FHSA: what's the best choice?
-
-## Chequing vs. savings account: what's the difference?
-
-## What's a joint account?
-
----
 

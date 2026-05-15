@@ -2,7 +2,7 @@
 
 ByMorgana Clarke
 
-UpdatedApril 7, 2026
+Updated April 7, 2026
 
 ---
 
@@ -185,36 +185,4 @@ Average value per dollar | Typically 0.5% to 3% per dollar spent | Varies widely
 Complexity of earning and redeeming | Simple: Earn a fixed percentage (e.g., 1% or 2%) back on your purchases, with clear redemption options | More complex: points vary in value depending on how they're redeemed
 Redemption options | Statement credits; gift cards; direct payouts | Travel; gift cards; merchandise
 Who does it make sense for | People who want easy, flexible rewards | People willing to strategically redeem for higher value
-
-TheAlxLabs Finance. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by TheAlxLabs Finance. (“TheAlxLabs Finance. If you are interested in learning about how TheAlxLabs Finance. If you are interested in knowing which products are offered by TheAlxLabs Finance.
-
-## Frequently asked questions about cash back versus reward points
-
-## Is it better to get points or cash back?
-
-Cash back is better for flexibility and simplicity, while points offer higher potential returns for travel if you're willing to optimise redemptions.
-
-## What is better, 5x points or 5% cash back?
-
-5% cash back is safer because the value is guaranteed, while 5x points could be worth more or less depending on how you redeem them.
-
-## Is 2% cash back the same as 2x points?
-
-Not necessarily — 2% cash back guarantees $0.02 per dollar, while 2x points equals 2% only if each point is worth 1 cent.
-
-## What is the difference between cash back and rewards?
-
-Cash back is a type of reward paid as currency, while "rewards" is the umbrella term for cash back, points, and miles.
-
-## Spend and save with one account
-
-## Discover more about
-
-## What is a cash back credit card and how does it work?
-
-## Cash advances: what they are, how they work, and their impact on your finances
-
-## How does credit card interest work
-
----
 

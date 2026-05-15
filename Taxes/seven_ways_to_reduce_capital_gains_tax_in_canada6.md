@@ -2,7 +2,7 @@
 
 ByThe Editors
 
-UpdatedApril 13, 2026
+Updated April 13, 2026
 
 ---
 
@@ -97,48 +97,4 @@ It may be possible to spread the proceeds of a capital property sale over five y
 ## 7. Sell your home
 
 Under Canada’s tax laws, primary residences are exempt from capital gains taxes. This includes a residence where your spouse or common-law partner or your children resided for part of the year, even if you didn’t. A cottage or summer home can also be exempt, but not investment properties or rentals you own.
-
-TheAlxLabs Finance. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by TheAlxLabs Finance. (“TheAlxLabs Finance. If you are interested in learning about how TheAlxLabs Finance. If you are interested in knowing which products are offered by TheAlxLabs Finance.
-
-## Frequently asked questions
-
-## How are capital gains taxed in Canada?
-
-Capital gains are the increases in value of assets that you own, such as stocks and property. The government likes to consider a portion of this gain as income so that making money in this way doesn’t occur tax-free. In Canada, taxpayers are liable for paying income taxes on 50% of the value of their capital gains in a given year. This means that you must take half of whatever you made in capital gains, add that amount to your income, and then subject that total income to income tax. The tax rate applied to the taxable portion of your capital gains will vary depending on your income and tax situation.
-
-## How do you avoid capital gains tax on rental property in Canada?
-
-If you own and are planning to sell rental property in Canada, you have limited options for avoiding paying capital gains tax on 50% of the profit on the property. However, it can be advantageous to sell at a specific time. If it’s getting toward the end of a tax year when you decide to sell, consider postponing the sale until after the new year to push the capital gain recognition into the next tax year. Doing this can delay your tax payment. That said, if your income is variable, you may not want to put it off because the gains can also serve to reduce the amount you pay in tax. For instance, if your income in the year the gains are recognized is lower than usual, you may pay a lower income tax rate and, thus, less tax on the capital gains. Another strategy is to match the sale of the property on which there is a gain with the sale of an asset on which you’ve taken a loss. If you sell these in the same tax year, the loss will cancel out some amount (or all) of the gain, reducing the amount on which you owe tax.
-
-## What's capital gains tax on a second property in Canada?
-
-Rules about capital gains tax on a second property in Canada are the same as those that apply to any other asset. Whether the second property is a vacation house, a home in another location, or an investment property, all that matters (from a tax perspective) is that it isn't considered your primary residence. This means that you cannot apply the principal residence exemption (which states that you do not owe capital gains on the profit from the sale of your primary residence) to the sale of a second property.
-
-## What are the types of income you pay capital gains tax in Canada?
-
-The types of income on which you pay capital gains tax in Canada are income from things like the sale of stocks or property (except your principal residence) or gifts of capital if those gifts produce income. Income of all of these types is considered taxable to some extent at a given taxpayer’s income tax rate for the year in question. There can also be other types of income you may pay tax on, so if you’re unsure it’s best to contact an accountant or tax specialist.
-
-## How long do you have to live in a house to avoid tax on capital gains in Canada?
-
-While there are some elements that can be open to interpretation, the Canada Revenue Agency (CRA) isn’t fully clear about exactly how long you must own your primary residence in order to take advantage of the principal residence exemption, which says that you don’t have to pay tax on capital gains on the profit on your home as long as it is your primary residence. The CRA rules just state you have to “ordinarily inhabit” the place for a “short period of time,” which, lucky for you, seems open to interpretation. That being said, even if you live in the property and are in the business of flipping and selling it before 365 days, you won’t be charged capital gains, but it WILL be deemed as business income - and that can be taxable.
-
-## How do I avoid capital gains tax on inherited property in Canada?
-
-The main way of avoiding paying capital gains tax on inherited property in Canada is to make that property into your primary residence. If the home was the primary residence of the person who passed it on to you, then you or the estate will not owe capital gains tax upon your taking possession. This is due to the principal residence exemption. However, if you then turn around and sell that property, you’ll be liable for capital gains tax on 50% of the gain.
-
-## What is the lifetime capital gains exemption in Canada?
-
-The lifetime capital gains exemption is a rule that pertains to some small business owners. It provides an exemption up to a certain amount over their lifetime for the sale of private qualifying shares of businesses and of farm and fishery property. Qualifying shares are those in a private company that is in active operation and has majority Canadian ownership. To qualify for the exemption, the shares must have been owned by the taxpayer or by a relative of the taxpayer for at least 24 months prior to the sale.The lifetime capital gains exemption does not apply to publicly traded stocks.
-
-## File with confidence and get the most out of your return for as little as $0
-
-## Discover more about
-
-## Capital gains tax in Canada in 2026
-
-## Marginal and Average Tax Rates Canada: How Tax Brackets Work
-
-## Canadian tax brackets for 2025
-
----
 

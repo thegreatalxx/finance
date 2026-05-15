@@ -1,8 +1,8 @@
 # Long straddle
 
-ByThe Editors
+By The Editors
 
-UpdatedMay 13, 2026
+Updated May 13, 2026
 
 ---
 
@@ -175,10 +175,4 @@ The only thing Marcus can lose is the total premium paid — $2,150. But that ca
 A long straddle is a clean way to take a position on volatility itself, rather than direction. If you believe a stock is about to make a significant move and want exposure to that swing without having to call heads or tails, this strategy may be made for you. The cost is defined, the potential is significant, and the only thing you need to be right about is the size of the move — not which way it goes.
 
 To keep learning, explore how a long strangle offers a similar volatility play at a lower upfront cost, with trade-offs on the break-even.
-
-TheAlxLabs Finance. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by TheAlxLabs Finance. (“TheAlxLabs Finance. If you are interested in learning about how TheAlxLabs Finance. If you are interested in knowing which products are offered by TheAlxLabs Finance.
-
-## Build your own portfolio your way with stocks, ETFs, and options
-
----
 

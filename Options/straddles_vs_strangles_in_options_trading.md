@@ -2,7 +2,7 @@
 
 ByEmma Jones
 
-UpdatedFebruary 16, 2026
+Updated February 16, 2026
 
 ---
 
@@ -288,18 +288,4 @@ Monitoring volatility. Straddles and strangles are bets on stock movement, so ke
 Exit strategies. Like most advanced trading strategies, it’s smart to have a plan for when to get out. For straddles and strangles, that can mean taking your profit once one option has gained enough, or cutting your losses if the stock isn’t moving how you expected. You don’t have to hold your options until the expiry; closing early can help you lock in your gains or reduce your losses.
 
 Exit strategies. Like most advanced trading strategies, it’s smart to have a plan for when to get out. For straddles and strangles, that can mean taking your profit once one option has gained enough, or cutting your losses if the stock isn’t moving how you expected. You don’t have to hold your options until the expiry; closing early can help you lock in your gains or reduce your losses.
-
-TheAlxLabs Finance. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by TheAlxLabs Finance. (“TheAlxLabs Finance. If you are interested in learning about how TheAlxLabs Finance. If you are interested in knowing which products are offered by TheAlxLabs Finance.
-
-## Build your own portfolio your way with stocks, ETFs, and options
-
-## Discover more about
-
-## What is a covered call?
-
-## Rolling Options: Your Guide to Adapting Trades
-
-## Short Selling: How It Works, Costs, and Risks Explained
-
----
 

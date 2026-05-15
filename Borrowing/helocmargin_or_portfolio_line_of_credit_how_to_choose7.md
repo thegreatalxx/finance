@@ -2,7 +2,7 @@
 
 ByThe Editors
 
-UpdatedApril 15, 2026
+Updated April 15, 2026
 
 ---
 
@@ -100,26 +100,4 @@ Buying on margin is likely the best option. A margin account is purpose-built fo
 Scenario: You’ve just made a successful offer on a home and need cash for the down payment. But your largest investment account is non-registered, and liquidating it would trigger a massive tax bill.
 
 When time is of the essence, you can use a PLOC or a margin account: you can typically open the line of credit and receive funds quite quickly, as opposed to waiting days for a securities sale to settle, since you’ll usually be pre-approved for it. It lets you turn your portfolio into a liquidity tool without actually having to sell securities, pay a pretty penny in capital gains tax, and lose out on future growth potential.
-
-TheAlxLabs Finance. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by TheAlxLabs Finance. (“TheAlxLabs Finance. If you are interested in learning about how TheAlxLabs Finance. If you are interested in knowing which products are offered by TheAlxLabs Finance.
-
-## Can I use a HELOC to buy stocks?
-
-You can, but it can be risky, particularly if the securities you buy don’t earn enough of a return to make up for the HELOC interest payments.
-
-A risky and complex financial strategy called the Smith Maneuver aims to make the interest portion of a residential mortgage tax-deductible by using a HELOC to invest. It is only possible with a re-advanceable mortgage: once the borrower makes a mortgage payment, they would then borrow the same amount from their HELOC and invest it in an unregistered investment account. Since interest paid on loans used to earn income can be tax deductible, the HELOC interest payments would ideally result in a tax refund, which could then be put toward paying down more of the borrower’s mortgage. This strategy could leave someone with the same net debt, rather than an accelerated mortgage repayment. If interest rates rise, or the market drops, they could also end up with higher interest payments than investment gains.
-
-## Will borrowing against my investments affect my credit score?
-
-Using a margin account or a PLOC on its own wouldn’t affect your credit score because both are secured by your investments. However, a default on either would show up on your credit history.
-
-## What happens if the market crashes while I have a portfolio loan?
-
-The answer depends on how much you’ve borrowed. If you didn’t borrow close to your limit, it’s possible nothing happens — the loan now makes up a higher percentage of the total value of your portfolio, but hasn’t hit the credit limit. If you borrowed closer to your credit limit or the maximum amount possible — or the market experiences a truly substantial crash — you could be put in a tough position. Your broker would require you to get back under your credit limit by a certain deadline. You would have to add cash or securities to your investment account or sell securities to reduce your debt balance.
-
-If you weren’t able to do any of those things by the deadline, your broker could liquidate part or all of your portfolio to pay down the loan. If you or your brokerage is forced to sell securities, you might end up having to sell at a loss, and could face a tax bill depending on the account type.
-
-## Build your own portfolio your way with stocks, ETFs, and options
-
----
 

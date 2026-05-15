@@ -2,7 +2,7 @@
 
 ByThe Editors
 
-UpdatedMarch 12, 2026
+Updated March 12, 2026
 
 ---
 
@@ -199,32 +199,4 @@ Investment transfers: check whether the institution offers transfer support and 
 Investment transfers: check whether the institution offers transfer support and whether it reimburses transfer-out fees (often subject to minimum transfer amounts).
 
 If you're ready to switch, compare a few options and follow the checklist above to move your deposits and payments.
-
-TheAlxLabs Finance. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by TheAlxLabs Finance. (“TheAlxLabs Finance. If you are interested in learning about how TheAlxLabs Finance. If you are interested in knowing which products are offered by TheAlxLabs Finance.
-
-## Frequently asked questions about online banks in Canada
-
-## Are online banks safe?
-
-Yes, legitimate online banks use bank-level encryption and offer CDIC coverage that insures eligible deposits up to $100,000. Fintechs provide this protection through partner banks, so your money is as safe as it would be at a traditional bank.
-
-## Can I open a bank account online instantly?
-
-Yes, most online banks let you verify your identity by taking a photo of your driver's licence or passport in the app. It takes a few minutes and requires no branch visit.
-
-## How do I deposit cash with an online bank?
-
-Some online banks accept cash deposits through specific ATMs or through third-parties like Canada Post, but some don't accept cash at all.
-
-## Open an account for your investing and saving goals
-
-## Discover more about
-
-## Canadian Banks: Compare Big 5, Online, and No-Fee Options
-
-## What is investing?
-
-## Budgeting: what it is and how to do it
-
----
 

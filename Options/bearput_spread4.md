@@ -1,8 +1,8 @@
 # Bear put spread
 
-ByThe Editors
+By The Editors
 
-UpdatedMay 13, 2026
+Updated May 13, 2026
 
 ---
 
@@ -188,10 +188,4 @@ Scenario | Outcome
 PEAR drops to $95 or below | Maximum gain: $310 (before fees)
 PEAR closes at $98.10 | Break-even
 PEAR rises above $100 | Maximum loss: $190 (before fees)
-
-TheAlxLabs Finance. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by TheAlxLabs Finance. (“TheAlxLabs Finance. If you are interested in learning about how TheAlxLabs Finance. If you are interested in knowing which products are offered by TheAlxLabs Finance.
-
-## Build your own portfolio your way with stocks, ETFs, and options
-
----
 

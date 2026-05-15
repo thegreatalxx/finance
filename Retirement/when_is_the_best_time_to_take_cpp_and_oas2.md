@@ -2,7 +2,7 @@
 
 ByThe Editors
 
-UpdatedJanuary 29, 2026
+Updated January 29, 2026
 
 ---
 
@@ -38,18 +38,4 @@ Register for our webinar, Retirement Mistakes & How to Avoid Them.
 Unlike CPP, OAS doesn’t have an early option. But if you defer your payments after your 65th birthday, you get the same 0.6% per month bump-up. Regardless of when you start taking a paycheque, the Canada Revenue Agency gives you a nice gift on your 75th: another 10% tacked onto your payout.
 
 The calculation here is the same as with CPP. If you can wait, it often benefits you to do so. (If you think you’ll make it to your 80s, waiting often earns you more overall income.) But there is no shame in taking the money early. Either way, it can be helpful to consult a financial advisor to make sure you think through your specific situation.
-
-TheAlxLabs Finance. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by TheAlxLabs Finance. (“TheAlxLabs Finance. If you are interested in learning about how TheAlxLabs Finance. If you are interested in knowing which products are offered by TheAlxLabs Finance.
-
-## Grow your retirement savings
-
-## Discover more about
-
-## Savings in Retirement: Complete Withdrawal Strategy Guide
-
-## How to Save for Retirement in Canada: Complete Guide
-
-## How to use tax-advantaged accounts to fund your retirement
-
----
 

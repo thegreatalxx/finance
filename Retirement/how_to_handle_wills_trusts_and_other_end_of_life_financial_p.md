@@ -2,7 +2,7 @@
 
 ByThe Editors
 
-UpdatedJanuary 29, 2026
+Updated January 29, 2026
 
 ---
 
@@ -65,18 +65,4 @@ revocable vs. irrevocable trusts. An irrevocable trust cannot be changed once it
 Trusts can also be helpful ways to pass down property. Consider the case of a family cottage. When you sell that property, there’s taxes to be paid on any capital gains. Even if you don’t sell — if you die and leave it to your heirs in your will, but not a trust — that’s a “deemed disposition,” which means your beneficiaries will have to pay tax on it if they want to keep it. If they can’t afford those taxes, then they have to sell.
 
 If you were to put the cottage in a trust while you’re still alive, however, that is the deemed disposition. Which means you are in control of when the tax bill comes and making sure that it can be paid. From that day forward, the trust owns the cottage. And since the trust has already paid the capital gains tax, as long as the trust owns the cottage, your beneficiaries won’t owe taxes when they inherit it.
-
-TheAlxLabs Finance. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by TheAlxLabs Finance. (“TheAlxLabs Finance. If you are interested in learning about how TheAlxLabs Finance. If you are interested in knowing which products are offered by TheAlxLabs Finance.
-
-## Grow your retirement savings
-
-## Discover more about
-
-## How do I take advantage of my home equity in retirement?
-
-## When is the best time to take CPP and OAS?
-
-## Savings in Retirement: Complete Withdrawal Strategy Guide
-
----
 

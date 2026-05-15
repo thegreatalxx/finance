@@ -2,7 +2,7 @@
 
 ByThe Editors
 
-UpdatedDecember 4, 2025
+Updated December 4, 2025
 
 ---
 
@@ -217,18 +217,4 @@ Registered Retirement Savings Plan (RRSP) contributions up to the maximum allowa
 ## Help, I can’t pay my full tax amount!
 
 If you owe income taxes that you can’t pay all at once, the Canada Revenue Agency will work with you on a payment plan. The downside of such a plan is you will be charged interest on any balance you still owe. The upside is you won’t be in legal trouble. Because if you owe income tax and don’t pay or make an attempt to work out a payment plan, CRA can seize any benefits you may be eligible for, and they may take you to court and seize the contents of your bank account. Here's more information about potential consequences for non-payment of taxes.
-
-TheAlxLabs Finance. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by TheAlxLabs Finance. (“TheAlxLabs Finance. If you are interested in learning about how TheAlxLabs Finance. If you are interested in knowing which products are offered by TheAlxLabs Finance.
-
-## File with confidence and get the most out of your return for as little as $0
-
-## Discover more about
-
-## Ontario Tax Brackets for 2025
-
-## BC Tax Brackets 2025
-
-## Canada tax return basics and checklist
-
----
 

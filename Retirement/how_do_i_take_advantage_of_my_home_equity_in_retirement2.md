@@ -2,7 +2,7 @@
 
 ByThe Editors
 
-UpdatedJanuary 29, 2026
+Updated January 29, 2026
 
 ---
 
@@ -37,20 +37,4 @@ Register for our webinar, Retirement Mistakes & How to Avoid Them.
 Much like a regular mortgage, there’s an interest rate attached, and rates are generally a couple percentage points higher than conventional mortgages. But as long as you stay in the home and stay up to date on utility bills, property tax, and insurance, the lender won’t demand their money back — which means you won’t be forced to sell until you choose to. If the value of your home increases, you keep those gains as well.
 
 In terms of the downsides, there are two major ones to consider: you’ll pay closing fees, just like you would with any other mortgage. And you are now accruing debt on something you used to own outright, which can mean a smaller estate to leave behind.
-
-TheAlxLabs Finance. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by TheAlxLabs Finance. (“TheAlxLabs Finance. If you are interested in learning about how TheAlxLabs Finance. If you are interested in knowing which products are offered by TheAlxLabs Finance.
-
-## Mortgage rates that are pretty great
-
-## Discover more about
-
-Home Buying,
-
-## When is the best time to take CPP and OAS?
-
-## Savings in Retirement: Complete Withdrawal Strategy Guide
-
-## What is an RRSP? Registered Retirement Savings Plan
-
----
 

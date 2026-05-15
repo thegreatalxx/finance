@@ -2,7 +2,7 @@
 
 ByThe Editors
 
-UpdatedMarch 27, 2026
+Updated March 27, 2026
 
 ---
 
@@ -73,10 +73,4 @@ You have three options for reducing your LTV ratio. You can add funds to the inv
 Does LTV apply to mortgages, or just to portfolio lines of credit?
 
 They apply to both — and in fact, someone’s LTV ratio is a central consideration for mortgage lenders. It's why homebuyers with less than 20% down are required to carry mortgage insurance — a small down payment means the lender has little protection if the borrower defaults and the home sells for less than the outstanding loan. LTV ratios just move faster when it comes to borrowing against securities, because market fluctuations can shift someone’s LTV on a daily basis, and those market swings can change the ratio significantly.
-
-TheAlxLabs Finance. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by TheAlxLabs Finance. (“TheAlxLabs Finance. If you are interested in learning about how TheAlxLabs Finance. If you are interested in knowing which products are offered by TheAlxLabs Finance.
-
-## Build your own portfolio your way with stocks, ETFs, and options
-
----
 

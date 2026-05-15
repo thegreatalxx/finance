@@ -2,7 +2,7 @@
 
 ByJonathan Dias
 
-UpdatedJanuary 29, 2026
+Updated January 29, 2026
 
 ---
 
@@ -189,20 +189,4 @@ When the person in whose name the spousal RRSP is registered makes withdrawals, 
 Is income splitting the same as a spousal RRSP?
 
 Income splitting is a financial planning strategy for reducing a couple’s overall household taxation in retirement. A spousal RRSP is just one tool that can be used to achieve this.
-
-TheAlxLabs Finance. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by TheAlxLabs Finance. (“TheAlxLabs Finance. If you are interested in learning about how TheAlxLabs Finance. If you are interested in knowing which products are offered by TheAlxLabs Finance.
-
-## Open an account for your investing and saving goals
-
-## Discover more about
-
-Home Buying,
-
-## Everything You Need to Know About Tax-Free Savings Accounts (TFSAs)
-
-## What Is an FHSA and how does it work?
-
-## What is an RRSP? Registered Retirement Savings Plan
-
----
 

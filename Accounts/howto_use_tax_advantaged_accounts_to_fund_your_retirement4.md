@@ -2,7 +2,7 @@
 
 ByThe Editors
 
-UpdatedJanuary 29, 2026
+Updated January 29, 2026
 
 ---
 
@@ -89,18 +89,4 @@ This is a good problem to have, so congratulations. One option is to make sure y
 ## Which account to withdraw from first if you run into an emergency
 
 Ideally you would have built up an emergency fund to help you through any surprise expenses and this scenario will never come up. But if it does, taking money out of an RRSP before retirement has all kinds of strings attached, so it’s almost certainly not going to be worth it unless you have no other options. Instead, use your TFSA. You won’t be taxed on the withdrawal, and you’ll get the contribution room back, allowing you to pay yourself back and stay on track toward your goals.
-
-TheAlxLabs Finance. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by TheAlxLabs Finance. (“TheAlxLabs Finance. If you are interested in learning about how TheAlxLabs Finance. If you are interested in knowing which products are offered by TheAlxLabs Finance.
-
-## Open an account for your investing and saving goals
-
-## Discover more about
-
-## How to Invest at Any Age: A Canadian Guide
-
-## How to handle wills, trusts, and other end-of-life financial preparation
-
-## How do I take advantage of my home equity in retirement?
-
----
 

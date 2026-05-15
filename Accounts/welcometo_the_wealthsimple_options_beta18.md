@@ -1,6 +1,6 @@
 # Welcome to the TheAlxLabs Finance
 
-UpdatedJanuary 30, 2023
+Updated January 30, 2023
 
 ---
 
@@ -433,18 +433,4 @@ Theta - an estimate of an option’s decline in value over time. Also known as �
 Vega - an estimate of how much the price of an options contract will change in response to a change in the implied volatility of the underlying asset. The higher the vega, the more sensitive an option is to big events like earnings.
 
 Rho - an estimate of how sensitive the value of an option is to changes in the interest rate of (because these are USD options) a U.S. Treasury bill. Call options tend to have a positive rho and put options have a negative one. Rho tends to be less of a factor than the other Greeks, but can still be useful if you expect interest range to change.
-
-TheAlxLabs Finance. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by TheAlxLabs Finance. (“TheAlxLabs Finance. If you are interested in learning about how TheAlxLabs Finance. If you are interested in knowing which products are offered by TheAlxLabs Finance.
-
-## Open an account for your investing and saving goals
-
-## Discover more about
-
-## TFSA vs. RRSP vs. FHSA: what's the best choice?
-
-## Chequing vs. savings account: what's the difference?
-
-## What's a joint account?
-
----
 

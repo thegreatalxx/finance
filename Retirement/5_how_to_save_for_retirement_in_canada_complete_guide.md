@@ -2,7 +2,7 @@
 
 ByThe Editors
 
-UpdatedApril 21, 2026
+Updated April 21, 2026
 
 ---
 
@@ -165,40 +165,4 @@ Use employer matching: If your employer offers matching contributions, contribut
 Review annually: Check your progress once a year and increase contributions when you get a raise.
 
 Review annually: Check your progress once a year and increase contributions when you get a raise.
-
-TheAlxLabs Finance. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by TheAlxLabs Finance. (“TheAlxLabs Finance. If you are interested in learning about how TheAlxLabs Finance. If you are interested in knowing which products are offered by TheAlxLabs Finance.
-
-## Frequently asked questions
-
-## What is the fastest way to save for retirement?
-
-Maximise your income, minimise expenses, and automatically invest the difference in tax-advantaged accounts like an RRSP or TFSA while capturing any employer matching contributions.
-
-## Is 35 too late to save for retirement?
-
-No — you still have 30 years until standard retirement age, which gives compound interest plenty of time to work in your favour.
-
-## What is the $1,000 rule for retirement?
-
-For every $1,000 monthly income you want in retirement, save $300,000 — so $4,000 monthly requires $1.2 million saved.
-
-## What is the 30-30-30-10 rule for retirement?
-
-This allocation strategy divides your portfolio into 30% stocks, 30% bonds, 30% real estate, and 10% cash, though your ideal mix depends on your age, risk tolerance, and timeline.
-
-## How much should you have saved by 35, 50, or 60?
-
-Common benchmarks suggest 1× your salary by 30, 3× by 40, 6× by 50, and 8× by 60, though your actual target depends on your desired lifestyle and expenses.
-
-## Build your own portfolio your way with stocks, ETFs, and options
-
-## Discover more about
-
-## How to use tax-advantaged accounts to fund your retirement
-
-## How to Invest at Any Age: A Canadian Guide
-
-## How to handle wills, trusts, and other end-of-life financial preparation
-
----
 

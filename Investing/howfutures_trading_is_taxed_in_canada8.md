@@ -2,7 +2,7 @@
 
 ByThe Editors
 
-UpdatedApril 21, 2026
+Updated April 21, 2026
 
 ---
 
@@ -239,40 +239,4 @@ The net taxable capital gain flows to line 12700 of your T1. Capital losses that
 Report business income from futures trading on Form T2125 (Statement of Business or Professional Activities). This form captures gross income, allowable expenses, and net income from your trading business.
 
 Net business income from T2125 flows to line 13500 of your T1 General return. Business losses can offset other income sources on your return.
-
-TheAlxLabs Finance. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by TheAlxLabs Finance. (“TheAlxLabs Finance. If you are interested in learning about how TheAlxLabs Finance. If you are interested in knowing which products are offered by TheAlxLabs Finance.
-
-## Frequently asked questions about futures trading taxes
-
-## What is the 80% rule in futures trading?
-
-The 80% rule — related to Section 1256 contracts — is a U.S. tax rule that doesn't apply in Canada. Canadian futures trading is taxed based on CRA classification as capital gains or business income, with no equivalent 60/40 or 80/20 split.
-
-## Are futures contracts taxed differently than stocks in Canada?
-
-The same capital gains vs business income framework applies to both futures and stocks. However, the CRA may be more likely to classify active futures trading as business income due to the speculative, short-term nature of most futures positions.
-
-## Can I deduct losses from futures trading on my Canadian tax return?
-
-Under capital gains treatment, capital losses can only offset capital gains — not other income types. However, excess losses can be carried back 3 years or carried forward indefinitely. Under business income treatment, trading losses can offset any other income sources in the same tax year.
-
-## Do Canadian futures traders need to pay quarterly tax installments?
-
-If your net tax owing exceeds $3,000 (or $1,800 in Quebec) and tax isn't withheld at source, the CRA may require quarterly installment payments. This commonly applies to traders classified under business income treatment.
-
-## How are U.S. futures contracts taxed for Canadian residents?
-
-Canadian residents are taxed on worldwide income, so profits from U.S. futures exchanges are fully taxable in Canada under the same capital gains or business income framework. If U.S. withholding tax is applied, a foreign tax credit may be available to avoid double taxation.
-
-## Build your own portfolio your way with stocks, ETFs, and options
-
-## Discover more about
-
-## How the stock market works
-
-## Buying on Margin: How It Works and Key Risks
-
-## What is an ETF?
-
----
 

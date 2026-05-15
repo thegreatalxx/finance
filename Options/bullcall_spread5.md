@@ -2,7 +2,7 @@
 
 By each leg:
 
-UpdatedMay 5, 2026
+Updated May 5, 2026
 
 ---
 
@@ -177,10 +177,4 @@ Also: options are automatically exercised at expiration if they're at least $0.0
 A bull call spread is a clean way to take a bullish position with a known cost and a known risk. You give up some upside in exchange for paying less to get in. For investors who have a target price in mind and want to keep their downside defined, it's a solid tool to have in the kit.
 
 Next up: explore how other multi-leg strategies like bear put spreads and iron condors can round out your options toolkit.
-
-TheAlxLabs Finance. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by TheAlxLabs Finance. (“TheAlxLabs Finance. If you are interested in learning about how TheAlxLabs Finance. If you are interested in knowing which products are offered by TheAlxLabs Finance.
-
-## Build your own portfolio your way with stocks, ETFs, and options
-
----
 

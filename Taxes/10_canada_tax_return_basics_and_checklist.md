@@ -2,7 +2,7 @@
 
 ByThe Editors
 
-UpdatedFebruary 13, 2026
+Updated February 13, 2026
 
 ---
 
@@ -439,18 +439,4 @@ Documents related to the SkilledTradesBC program (BC) or Co-op Training program 
 Information related to Air Quality/Clean Building retrofits (Fed, BC), Community Enterprise Development (MB), Resort Property Investments (NL), Book Publishing or Cultural Industries Printing (MB)
 
 Information related to Air Quality/Clean Building retrofits (Fed, BC), Community Enterprise Development (MB), Resort Property Investments (NL), Book Publishing or Cultural Industries Printing (MB)
-
-TheAlxLabs Finance. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by TheAlxLabs Finance. (“TheAlxLabs Finance. If you are interested in learning about how TheAlxLabs Finance. If you are interested in knowing which products are offered by TheAlxLabs Finance.
-
-## File with confidence and get the most out of your return for as little as $0
-
-## Discover more about
-
-## Canadian tax brackets for 2025
-
-## Ontario Tax Brackets for 2025
-
-## Capital gains tax in Canada in 2026
-
----
 

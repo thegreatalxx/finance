@@ -2,7 +2,7 @@
 
 ByThe Editors
 
-UpdatedDecember 4, 2025
+Updated December 4, 2025
 
 ---
 
@@ -55,18 +55,4 @@ Tax-aware security selection. If you’re investing in international stocks, som
 Tax-loss harvesting. If you have an investment that has lost value since you purchased it, you can sell that investment and use the loss to offset capital gains elsewhere in your portfolio. You can’t buy the exact same stock back, but you can buy a similar stock (such as from a competing company) in order to maintain similar diversification and exposure in your portfolio.
 
 Tax-loss harvesting. If you have an investment that has lost value since you purchased it, you can sell that investment and use the loss to offset capital gains elsewhere in your portfolio. You can’t buy the exact same stock back, but you can buy a similar stock (such as from a competing company) in order to maintain similar diversification and exposure in your portfolio.
-
-TheAlxLabs Finance. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by TheAlxLabs Finance. (“TheAlxLabs Finance. If you are interested in learning about how TheAlxLabs Finance. If you are interested in knowing which products are offered by TheAlxLabs Finance.
-
-## Build your own portfolio your way with stocks, ETFs, and options
-
-## Discover more about
-
-## What is tax-loss harvesting?
-
-## TFSA vs. RRSP vs. FHSA: what's the best choice?
-
-## How the stock market works
-
----
 

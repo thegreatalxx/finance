@@ -2,7 +2,7 @@
 
 ByThe Editors
 
-UpdatedFebruary 1, 2026
+Updated February 1, 2026
 
 ---
 
@@ -149,18 +149,4 @@ If you have a financial advisor, you may choose to execute trades through him or
 Generally, automated investing services will put together a diversified basket of exchange traded funds for their clients based on their investment goals rather than individual stocks. (Our patron saint, after all, is Harry Markowitz.) The advantages of robo-advisors come in the form of low fees and a diversified portfolio that's likely made up of a bunch of different stocks, bonds, and real estate.
 
 Robo-advisors generally aim to track the market rather than beat it. It's generally straightforward to sign up for an account with an automated investing provider, everything is done online, and you can start investing in minutes.
-
-TheAlxLabs Finance. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by TheAlxLabs Finance. (“TheAlxLabs Finance. If you are interested in learning about how TheAlxLabs Finance. If you are interested in knowing which products are offered by TheAlxLabs Finance.
-
-## Build your own portfolio your way with stocks, ETFs, and options
-
-## Discover more about
-
-## Buying on Margin: How It Works and Key Risks
-
-## What is an ETF?
-
-## 2026 RRSP Contribution Deadline: Key Facts to Know
-
----
 

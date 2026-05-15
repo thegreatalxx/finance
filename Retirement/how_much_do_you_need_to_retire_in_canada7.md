@@ -2,7 +2,7 @@
 
 By categorising your future spending, you can build a realistic annual budget.
 
-UpdatedApril 20, 2026
+Updated April 20, 2026
 
 ---
 
@@ -252,36 +252,4 @@ Boost savings now: increase contributions, reduce investment fees, or downsize y
 Boost savings now: increase contributions, reduce investment fees, or downsize your current home
 
 Small changes now can add up over time.
-
-TheAlxLabs Finance. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by TheAlxLabs Finance. (“TheAlxLabs Finance. If you are interested in learning about how TheAlxLabs Finance. If you are interested in knowing which products are offered by TheAlxLabs Finance.
-
-## Frequently asked questions about retiring in Canada
-
-## Is $1,000,000 enough to retire in Canada?
-
-For many Canadians with a paid-off home and modest expenses, $1 million is more than enough — but high-cost cities and extensive travel can push that number higher.
-
-## How long will $500,000 last in retirement?
-
-With standard withdrawal rates and government benefits like CPP and OAS, $500,000 can provide supplemental income for 20–30 years or more, depending on your spending and investment returns.
-
-## Can I retire at 55 with $2.5 million in Canada?
-
-It may be enough for an early retirement and to bridge the gap until CPP (as early as 60, at a reduced amount) and OAS (65) begin, depending on your spending, taxes, and investment returns.
-
-## Can I retire at 65 with $500,000 in Canada?
-
-It can be workable—particularly if your housing costs are low and your spending is modest—along with CPP and OAS starting at 65. Whether it's sufficient depends on your budget, taxes, and investment returns.
-
-## Build your own portfolio your way with stocks, ETFs, and options
-
-## Discover more about
-
-## How to Save for Retirement in Canada: Complete Guide
-
-## When is the best time to take CPP and OAS?
-
-## Savings in Retirement: Complete Withdrawal Strategy Guide
-
----
 

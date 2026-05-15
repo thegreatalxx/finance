@@ -2,7 +2,7 @@
 
 ByThe Editors
 
-UpdatedMay 5, 2026
+Updated May 5, 2026
 
 ---
 
@@ -201,42 +201,4 @@ Close: On closing day, you receive the keys and take possession.
 Some buyers choose to include a personal letter in the hope of helping their offer stand out, though how much it influences outcomes can vary. Ebrahim, for instance, says these letters have the potential to backfire.
 
 They may come across as overly personal or persuasive, or they could unintentionally include details that don't resonate with the seller (for example, highlighting lifestyle details that may not align with the seller's preferences). But many buyers swear by the personal note. If you're among them, here's a handy template to get you started.
-
-TheAlxLabs Finance. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by TheAlxLabs Finance. (“TheAlxLabs Finance. If you are interested in learning about how TheAlxLabs Finance. If you are interested in knowing which products are offered by TheAlxLabs Finance.
-
-## Frequently asked questions (FAQ) about bidding on a house
-
-## What are common mistakes when bidding on a house?
-
-The biggest mistakes are bidding beyond your budget, waiving critical conditions like home inspection or financing, and ignoring whether your closing date works for the seller.
-
-## Should you remove conditions to win a bidding war?
-
-Removing conditions makes your offer more attractive but carries serious risk — if financing falls through or inspection reveals issues, you're fully liable. Always consult your agent and lawyer before waiving safety nets.
-
-## How much deposit do you need when making an offer?
-
-A standard deposit is around 5% of the purchase price, which signals seriousness to the seller and becomes part of your down payment at closing.
-
-## Can you back out after your offer is accepted?
-
-Yes, if you can't fulfil your conditions (like securing financing), you can walk away and get your deposit back. If your offer is firm or conditions are waived, backing out means losing your deposit and potential legal action from the seller.
-
-## What is the 20/30/3 rule for home buying?
-
-Put down 20%, keep monthly housing costs under 30% of gross income, and buy a home costing no more than 3 times your annual salary.
-
-## Mortgage rates that are pretty great
-
-## Discover more about
-
-Home Buying
-
-## Closing on a house: what to expect
-
-## Home Upkeep: Maintenance Guide for Canadian Homeowners
-
-## What Is an FHSA and how does it work?
-
----
 

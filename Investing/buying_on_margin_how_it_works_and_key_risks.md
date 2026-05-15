@@ -2,7 +2,7 @@
 
 ByAli Perdue
 
-UpdatedApril 29, 2026
+Updated April 29, 2026
 
 ---
 
@@ -253,36 +253,4 @@ The extra buying power can create opportunity, but the losses can be serious. Ma
 Margin trading isn't for everyone. It adds complexity and risk that many long-term investors simply don't need. If you're just starting out, or prefer a set-it-and-forget-it approach, a standard investment account is likely a better fit.
 
 When you're ready to start investing — with or without margin — consider comparing brokerages based on fees, account features, interest rates on margin, and risk controls before opening an account.
-
-TheAlxLabs Finance. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by TheAlxLabs Finance. (“TheAlxLabs Finance. If you are interested in learning about how TheAlxLabs Finance. If you are interested in knowing which products are offered by TheAlxLabs Finance.
-
-## Frequently asked questions about buying on margin
-
-## How long do you have to pay back margin?
-
-There's no set repayment schedule — you can keep the loan as long as you maintain required equity. However, interest accrues daily, so holding longer means higher costs.
-
-## Can you lose more money than you invested?
-
-Yes — this is the biggest risk of margin trading. If the investment value declines enough, you could lose more than your initial deposit and may need to add funds to cover the loan.
-
-## Was buying on margin a factor in the 1929 crash?
-
-Yes — margin was a major factor in the 1929 crash when investors could borrow up to 90% of a stock's value. Forced selling to meet margin calls created a downward spiral that accelerated the collapse.
-
-## Is margin interest tax-deductible in Canada?
-
-Generally yes, if you use the borrowed funds to buy income-generating investments. Consult a tax professional to confirm your specific situation.
-
-## Pay less interest on margin with rates lower than any Canadian bank
-
-## Discover more about
-
-## Margin call: What it is and how to avoid it
-
-## Extended hours trading: Pre-market, after-hours, and overnight trading
-
-## Using your margin account to borrow money
-
----
 

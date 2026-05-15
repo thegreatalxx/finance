@@ -2,7 +2,7 @@
 
 By continuing, you agree you understand ourAI & Privacy disclosures.
 
-UpdatedFebruary 16, 2026
+Updated February 16, 2026
 
 ---
 
@@ -97,44 +97,4 @@ With a direct transfer, there are no tax consequences. Your funds go from one TF
 No matter what type of TFSA transfer you make, it’s important to note that you will not be taxed on any investment gains or losses. Those are never taxable within a TFSA, no matter where you hold your funds or how many times you transfer them.
 
 If you are interested in transferring funds that are not currently held in a TFSA — from a Registered Education Savings Plan or Registered Retirement Savings Plan with another institution, for example — there can be tax implications. You can expect to pay capital gains taxes, along with the 1% tax on any amount you transfer that exceeds your available contribution room.
-
-TheAlxLabs Finance. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by TheAlxLabs Finance. (“TheAlxLabs Finance. If you are interested in learning about how TheAlxLabs Finance. If you are interested in knowing which products are offered by TheAlxLabs Finance.
-
-## TFSA transfers FAQs
-
-## Can I transfer my TFSA to a different financial institution?
-
-Yes, you can transfer between TFSA accounts freely without affecting your contribution limit or incurring capital gains taxes through a direct transfer. Some institutions charge a fee (anywhere from $50 to $200) for moving your account.
-
-## Are there any contribution limits or restrictions on TFSA transfers?
-
-No, as long as you use a direct transfer between institutions, you can transfer the entirety of your existing TFSA without affecting your contribution room. You need to be more careful with indirect transfers.
-
-## Can I transfer my TFSA to a different type of account?
-
-Yes, you can transfer your TFSA to an RRSP, non-registered account, or other account type. Just know that earnings from those funds may no longer be shielded from capital gains taxes, and your contribution space will not be returned until the following year.
-
-## Are there any time restrictions for TFSA transfers?
-
-No, transfers between TFSA accounts are available at any time.
-
-## Does a TFSA transfer affect my contribution limit?
-
-Not if you do a direct transfer between financial institutions (as opposed an indirect transfer). With direct transfers you are free to transfer funds between TFSA accounts registered to the same account holder without affecting contribution limits.
-
-## Will my bank charge a TFSA transfer fee?
-
-Depending on your financial institution they may charge a TFSA transfer fee of up to $200 for moving your account to another institution, which will be deducted from your balance upon transfer. Some financial institutions will cover those fees for you when you transfer an account to them.
-
-## Open an account for your investing and saving goals
-
-## Discover more about
-
-## Everything You Need to Know About Tax-Free Savings Accounts (TFSAs)
-
-## What is the TFSA Limit for 2026?
-
-## TFSA withdrawals
-
----
 

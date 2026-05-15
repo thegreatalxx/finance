@@ -2,7 +2,7 @@
 
 ByThe Editors
 
-UpdatedApril 15, 2026
+Updated April 15, 2026
 
 ---
 
@@ -168,10 +168,4 @@ can vary in how much your credit limit is based on the holdings in your account.
 may require you to add more funds if your account balance falls below the requirement, otherwise your securities may be liquidated.
 
 may require you to add more funds if your account balance falls below the requirement, otherwise your securities may be liquidated.
-
-TheAlxLabs Finance. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by TheAlxLabs Finance. (“TheAlxLabs Finance. If you are interested in learning about how TheAlxLabs Finance. If you are interested in knowing which products are offered by TheAlxLabs Finance.
-
-## Build your own portfolio your way with stocks, ETFs, and options
-
----
 

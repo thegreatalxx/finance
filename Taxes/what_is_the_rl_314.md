@@ -2,7 +2,7 @@
 
 ByThe Editors
 
-UpdatedNovember 17, 2023
+Updated November 17, 2023
 
 ---
 
@@ -133,18 +133,4 @@ Prepare and View the RL-31 Slip service: applies to both those who have to file 
 Mail paper slips: applies only to those who have to file fewer than 51 RL-31 slips
 
 Mail paper slips: applies only to those who have to file fewer than 51 RL-31 slips
-
-TheAlxLabs Finance. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by TheAlxLabs Finance. (“TheAlxLabs Finance. If you are interested in learning about how TheAlxLabs Finance. If you are interested in knowing which products are offered by TheAlxLabs Finance.
-
-## File with confidence and get the most out of your return for as little as $0
-
-## Discover more about
-
-## Canadian tax brackets for 2025
-
-## Capital gains tax in Canada in 2026
-
-## Canada tax return basics and checklist
-
----
 

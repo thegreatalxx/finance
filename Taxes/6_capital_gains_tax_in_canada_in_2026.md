@@ -2,7 +2,7 @@
 
 ByThe Editors
 
-UpdatedJanuary 27, 2026
+Updated January 27, 2026
 
 ---
 
@@ -93,18 +93,4 @@ Be warned: the CRA does not look favourably on investors who sell low performers
 ## Option 5: Sell your home
 
 Under Canada’s tax laws, primary residences are exempt from capital gains taxes. This includes a residence where your spouse or common-law partner or your children resided for part of the year, even if you didn’t. A cottage or summer home can also be exempt, but not investment properties or rentals you own.
-
-TheAlxLabs Finance. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by TheAlxLabs Finance. (“TheAlxLabs Finance. If you are interested in learning about how TheAlxLabs Finance. If you are interested in knowing which products are offered by TheAlxLabs Finance.
-
-## File with confidence and get the most out of your return for as little as $0
-
-## Discover more about
-
-## Seven ways to reduce capital gains tax in Canada
-
-## Marginal and Average Tax Rates Canada: How Tax Brackets Work
-
-## Canadian tax brackets for 2025
-
----
 

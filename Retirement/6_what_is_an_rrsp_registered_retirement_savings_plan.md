@@ -2,7 +2,7 @@
 
 ByMitchell Chippin
 
-UpdatedMay 5, 2026
+Updated May 5, 2026
 
 ---
 
@@ -242,36 +242,4 @@ Your financial institution's platform: Log in to check your current balance and 
 CRA My Account: View your remaining contribution room, RRSP deduction limit, and get alerts if you've over-contributed
 
 CRA My Account: View your remaining contribution room, RRSP deduction limit, and get alerts if you've over-contributed
-
-TheAlxLabs Finance. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by TheAlxLabs Finance. (“TheAlxLabs Finance. If you are interested in learning about how TheAlxLabs Finance. If you are interested in knowing which products are offered by TheAlxLabs Finance.
-
-## Frequently asked questions about RRSPs
-
-## How much will I get back if I put $10,000 in my RRSP?
-
-It depends on your marginal tax rate — if you're in a 30% tax bracket, a $10,000 contribution could reduce your tax bill by $3,000.
-
-## Is it worth contributing to an RRSP?
-
-Yes, if you're in a high tax bracket now and expect to be in a lower bracket in retirement — you can defer paying some of those taxes now and pay them later at a lower rate. If your tax bracket is currently low, a TFSA might make more sense until your earnings and tax bracket increase.
-
-## What are the disadvantages of an RRSP?
-
-Withdrawals are taxed as income, and withdrawn amounts do not restore RRSP contribution room.
-
-## What is better, a TFSA or an RRSP?
-
-An RRSP is generally better for higher earners saving for retirement, while a TFSA works well if you earn under $50,000 or need flexible access to your money for short-term goals.
-
-## Open an account for your investing and saving goals
-
-## Discover more about
-
-## RRSP Withdrawals: What You Should Know
-
-## RRSP Withholding and Taxes: How Much You’ll Pay
-
-## TFSA vs. RRSP vs. FHSA: what's the best choice?
-
----
 

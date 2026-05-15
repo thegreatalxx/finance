@@ -2,7 +2,7 @@
 
 ByThe Editors
 
-UpdatedApril 17, 2026
+Updated April 17, 2026
 
 ---
 
@@ -198,38 +198,4 @@ If self-employed: 2 years of tax returns and financial statements
 Then, reach out to a mortgage broker or lender to start the pre-approval process. Having that official document will show sellers you're a serious buyer when you finally find the right place.
 
 And remember: the number they give you is a ceiling, not a target. You're allowed — encouraged, even — to spend less.
-
-TheAlxLabs Finance. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by TheAlxLabs Finance. (“TheAlxLabs Finance. If you are interested in learning about how TheAlxLabs Finance. If you are interested in knowing which products are offered by TheAlxLabs Finance.
-
-## Frequently asked questions about mortgage affordability
-
-## How much mortgage can I get with a $70,000 salary in Canada?
-
-A $70,000 salary typically qualifies you for a mortgage between $210,000 and $280,000, assuming minimal debt and a decent credit score.
-
-## How much do you need to make to afford a $500,000 home in Canada?
-
-You'll generally need a household income of around $100,000 to $130,000, depending on your down payment, debts, and the local property tax rate.
-
-## What income do you need for a $1,000,000 mortgage in Canada?
-
-You'll typically need a gross household income of at least $200,000 to $250,000 to qualify for a $1,000,000 mortgage.
-
-## How much mortgage can I get with a $100,000 salary in Canada?
-
-With a $100,000 salary, expect to qualify for a mortgage in the $300,000 to $400,000 range, depending on your other debts.
-
-## Build your own portfolio your way with stocks, ETFs, and options
-
-## Discover more about
-
-Home Buying
-
-## How to choose the right city to buy a home in
-
-## How to save for a house
-
-## How to choose a mortgage
-
----
 

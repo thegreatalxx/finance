@@ -2,7 +2,7 @@
 
 ByThe Editors
 
-UpdatedMay 11, 2026
+Updated May 11, 2026
 
 ---
 
@@ -147,36 +147,4 @@ Choose appropriate investments. Your investments have to generate income to main
 Work with qualified professionals. You'll likely want a mortgage broker familiar with readvanceable products, an investment advisor, and an accountant who understands the tax implications. The upfront cost of professional advice often pays for itself in avoiding errors.
 
 Set up proper tracking. Maintain separate accounts for your HELOC investments and keep detailed records of every transaction. The CRA can ask for documentation going back several years, so organized records are essential.
-
-TheAlxLabs Finance. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by TheAlxLabs Finance. (“TheAlxLabs Finance. If you are interested in learning about how TheAlxLabs Finance. If you are interested in knowing which products are offered by TheAlxLabs Finance.
-
-## Frequently asked questions
-
-## Is the Smith Manoeuvre legal?
-
-Yes, the approach is based on established provisions in the Income Tax Act that allow deductions for interest on money borrowed for investment purposes.
-
-## What if interest rates rise dramatically?
-
-Higher rates increase your borrowing costs and can make the approach less attractive. The key is ensuring you can handle higher payments without financial strain.
-
-## Can I do this myself or do I need professional help?
-
-While possible to self-implement, working with professionals familiar with the Smith Manoeuvre reduces the risk of costly mistakes, particularly around tax compliance and investment selection.
-
-## What happens if I sell my home?
-
-If you sell, you'll pay off both your mortgage and your HELOC from the proceeds. Your investment portfolio remains yours though the loan that funded them will be gone, so you'll lose the ongoing tax deduction. If home prices have dropped significantly and you no longer have sufficient equity, you may need to sell some or all of your investments to raise the funds to pay off the HELOC.
-
-## Build your own portfolio your way with stocks, ETFs, and options
-
-## Discover more about
-
-## How the stock market works
-
-## Buying on Margin: How It Works and Key Risks
-
-## What is an ETF?
-
----
 

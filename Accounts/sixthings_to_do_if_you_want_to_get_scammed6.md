@@ -2,7 +2,7 @@
 
 ByThe Editors
 
-UpdatedMarch 6, 2026
+Updated March 6, 2026
 
 ---
 
@@ -101,18 +101,4 @@ Let’s get serious for a moment. Falling victim to a scam or fraud is one of th
 An unpleasant reality is that most victims don’t report fraud or scam losses, owing mostly to the embarrassment. You’re a smart, careful person, after all. How could this happen to you? The truth is, at some point, in one form or another, it happens to most people, and reporting the bad actors is one of the only ways to protect yourself and others.
 
 The sooner you inform your financial institution, law enforcement, or the Canadian Anti-Fraud Centre of what’s happened, the more likely they are to recover any losses and/or prevent others from falling victim to the same attacker.
-
-TheAlxLabs Finance. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by TheAlxLabs Finance. (“TheAlxLabs Finance. If you are interested in learning about how TheAlxLabs Finance. If you are interested in knowing which products are offered by TheAlxLabs Finance.
-
-## Open an account for your investing and saving goals
-
-## Discover more about
-
-## How to Consume and Discern Information in Our Slop-Infested World
-
-## Is It Really Wise to Trust a New Company With My Nest Egg?
-
-## TFSA vs. RRSP vs. FHSA: what's the best choice?
-
----
 

@@ -1,8 +1,8 @@
 # Long call calendar spread
 
-ByThe Editors
+By The Editors
 
-UpdatedMay 13, 2026
+Updated May 13, 2026
 
 ---
 
@@ -153,10 +153,4 @@ If he wants to avoid any unexpected stock positions, the cleanest move is to clo
 ## Putting it all together
 
 A long call calendar spread might be a smart play when you think a stock is stuck in neutral for now but has real upside ahead. You use the near-term lull to reduce the cost of your longer-dated bet. The risk is capped at what you paid to enter. The reward depends on how well your timing plays out — on both expiration dates.
-
-TheAlxLabs Finance. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by TheAlxLabs Finance. (“TheAlxLabs Finance. If you are interested in learning about how TheAlxLabs Finance. If you are interested in knowing which products are offered by TheAlxLabs Finance.
-
-## Build your own portfolio your way with stocks, ETFs, and options
-
----
 

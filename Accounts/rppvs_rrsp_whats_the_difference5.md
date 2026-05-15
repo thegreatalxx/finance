@@ -2,7 +2,7 @@
 
 ByThe Editors
 
-UpdatedJune 5, 2019
+Updated June 5, 2019
 
 ---
 
@@ -159,18 +159,4 @@ Those who want more control over their savings, think they might like to make wi
 You may want to have both an RPP account and an RRSP account, especially if you have a defined benefit pension plan that will provide you a set amount of income in retirement. You can calculate how much income that is likely to be and decide whether you need to save more in an RRSP to make sure you have sufficient funds. One complicating factor in this scenario is that the accumulation of money in your RPP may reduce your annual RRSP contribution limit.
 
 Whichever account you choose, figuring out retirement savings is the first step to ensuring financial stability and independence in your later years.
-
-TheAlxLabs Finance. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by TheAlxLabs Finance. (“TheAlxLabs Finance. If you are interested in learning about how TheAlxLabs Finance. If you are interested in knowing which products are offered by TheAlxLabs Finance.
-
-## Open an account for your investing and saving goals
-
-## Discover more about
-
-## TFSA vs. RRSP vs. FHSA: what's the best choice?
-
-## Chequing vs. savings account: what's the difference?
-
-## What's a joint account?
-
----
 

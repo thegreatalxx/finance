@@ -2,7 +2,7 @@
 
 ByMorgana Clarke
 
-UpdatedJanuary 20, 2026
+Updated January 20, 2026
 
 ---
 
@@ -141,18 +141,4 @@ You want an oblivious friend to help pay for your stand-up paddleboarding lesson
 You want an oblivious friend to help pay for your stand-up paddleboarding lessons.
 
 ## Bonus Quiz! Is this the right person to open a joint account with?
-
-TheAlxLabs Finance. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by TheAlxLabs Finance. (“TheAlxLabs Finance. If you are interested in learning about how TheAlxLabs Finance. If you are interested in knowing which products are offered by TheAlxLabs Finance.
-
-## Open an account for your investing and saving goals
-
-## Discover more about
-
-## TFSA vs. RRSP vs. FHSA: what's the best choice?
-
-## Chequing vs. savings account: what's the difference?
-
-## RPP vs. RRSP: What's the difference?
-
----
 

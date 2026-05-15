@@ -2,7 +2,7 @@
 
 ByThe Editors
 
-UpdatedNovember 19, 2023
+Updated November 19, 2023
 
 ---
 
@@ -74,18 +74,4 @@ Boxes 23 and 26 | Box 23 is for eligible part-time and full-time fees, while Box
 The tuition amount is a transferable tax credit, and you can use your unused credits elsewhere. Eligible students can reduce the taxes owed to the CRA by claiming their tuition tax credits. However, you can only reduce the owed taxes up to $0. If there are more amounts to claim, the CRA allows you to transfer it to another person who can then use the surplus to reduce their owed taxes. The CRA allows transfers to a spouse or common-law partner, parent or grandparent.
 
 If there's no one to transfer the extra tax credits to, the CRA will push them to the following tax year. However, you can only transfer credits for the current tax year. Also, the CRA sets the maximum transferable amount to $5,000. It is advisable to keep all T2202 forms you receive for at least six years, since the CRA can request them at any time.
-
-TheAlxLabs Finance. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by TheAlxLabs Finance. (“TheAlxLabs Finance. If you are interested in learning about how TheAlxLabs Finance. If you are interested in knowing which products are offered by TheAlxLabs Finance.
-
-## File with confidence and get the most out of your return for as little as $0
-
-## Discover more about
-
-## Canadian tax brackets for 2025
-
-## Capital gains tax in Canada in 2026
-
-## Canada tax return basics and checklist
-
----
 

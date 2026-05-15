@@ -2,7 +2,7 @@
 
 ByThe Editors
 
-UpdatedNovember 16, 2023
+Updated November 16, 2023
 
 ---
 
@@ -49,18 +49,4 @@ If you've received benefits, the T5007 will be filled out by the entity paying o
 T5007 slips are required to have been issued and sent to the recipient by the last day of February. If you're looking for your slip before this date, it might not have been issued.
 
 If you have been issued one or more T5007 slips because you received workers’ compensation benefits and/or more than $500 social assistance payments from a given program, typically the agency that issued the T5007 will mail you a copy of the slip —which will contain three duplicate copies of the slip, but you only need to enter the information on your tax return once — or you can access it online from your account with that agency (if applicable) or in your CRA “My Account,” if you have one set up.
-
-TheAlxLabs Finance. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by TheAlxLabs Finance. (“TheAlxLabs Finance. If you are interested in learning about how TheAlxLabs Finance. If you are interested in knowing which products are offered by TheAlxLabs Finance.
-
-## File with confidence and get the most out of your return for as little as $0
-
-## Discover more about
-
-## Canadian tax brackets for 2025
-
-## Capital gains tax in Canada in 2026
-
-## Canada tax return basics and checklist
-
----
 
