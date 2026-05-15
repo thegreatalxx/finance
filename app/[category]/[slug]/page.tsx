@@ -47,7 +47,7 @@ export async function generateStaticParams() {
 
 export async function generateMetadata({ params }: Props) {
   const category = getCategoryInfo(params.category)
-  const title = params.slug.replace(/-/g, ' ').replace(/^\d+_/, '')
+  const title = params.slug.replace(/-/g, ' ').replace(/_/g, ' ').replace(/^\d+ /, '')
   return {
     title: `${title} | ${category?.name || 'Article'} | TheAlxLabs Finance Learn`,
   }

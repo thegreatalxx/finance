@@ -111,7 +111,7 @@ export async function getArticleContent(categorySlug: string, articleSlug: strin
     
     return {
       content: fileContent,
-      title: titleMatch ? titleMatch[1].trim() : articleSlug.replace(/-/g, ' ').replace(/^\d+_/, ''),
+      title: titleMatch ? titleMatch[1].trim() : articleSlug.replace(/-/g, ' ').replace(/_/g, ' ').replace(/^\d+ /, ''),
       author: authorMatch ? authorMatch[1].trim() : 'The Editors',
       date: dateMatch ? dateMatch[1].trim() : '',
     }

@@ -21,6 +21,10 @@ export async function generateMetadata({ params }: Props) {
   }
 }
 
+function formatSlug(slug: string): string {
+  return slug.replace(/-/g, ' ').replace(/_/g, ' ').replace(/^\d+ /, '')
+}
+
 export default async function CategoryPage({ params }: Props) {
   const category = getCategoryInfo(params.category)
   if (!category) notFound()
@@ -35,7 +39,7 @@ export default async function CategoryPage({ params }: Props) {
       <div className="article-list">
         {articles.map((article) => (
           <Link key={article.slug} href={`/${params.category}/${article.slug}`} className="article-card">
-            <h3>{article.slug.replace(/-/g, ' ').replace(/^\d+_/, '')}</h3>
+            <h3>{formatSlug(article.slug)}</h3>
             <div className="meta">Learn more</div>
           </Link>
         ))}
