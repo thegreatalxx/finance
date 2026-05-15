@@ -49,27 +49,30 @@ export default async function ArticlePage({ params }: Props) {
   return (
     <main>
       <div className="article-detail">
-        <Link href="/" className="back-link">← Back to Home</Link>
-        
         <div className="breadcrumb">
-          <Link href="/">Home</Link>
+          <Link href="/">Learn</Link>
           <span>›</span>
           <Link href={`/${params.category}`}>{category.name}</Link>
           <span>›</span>
-          Article
+          <span>Article</span>
         </div>
 
         <h1>{article.title}</h1>
-        <div className="author">By {article.author} • Updated {article.date}</div>
+        <div className="author">By {article.author} · Updated {article.date}</div>
 
         <div className="article-content" dangerouslySetInnerHTML={{ __html: contentHtml }} />
 
         <div className="disclaimer">
-          <strong>Disclaimer:</strong> Wealthsimple's Learn pages are meant to be educational. Every story is sourced from and vetted by subject matter experts. This article is not investment advice.
+          <strong>Disclaimer:</strong> Wealthsimple's Learn pages are meant to be educational. Every story is sourced from and vetted by subject matter experts. This article is not investment advice, a recommendation to buy or sell assets or securities, or any other kind of professional advice.
         </div>
 
-        <div className="article-nav">
-          <Link href={`/${params.category}`}>← Back to {category.name}</Link>
+        <div className="related-categories">
+          {categoryList.filter(c => c.slug !== params.category).slice(0, 4).map((cat) => (
+            <Link key={cat.slug} href={`/${cat.slug}`} className="related-category">
+              <img src={cat.image} alt={cat.name} />
+              <span>{cat.name}</span>
+            </Link>
+          ))}
         </div>
       </div>
     </main>
