@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
-import { getCategoryInfo, getArticlesByCategory, categoryList, formatSlug } from '@/lib/articles'
+import { getCategoryInfo, getArticlesByCategory, categoryList } from '@/lib/articles'
 
 interface Props {
   params: { category: string }
@@ -35,7 +35,7 @@ export default async function CategoryPage({ params }: Props) {
       <div className="article-list">
         {articles.map((article) => (
           <Link key={article.slug} href={`/${params.category}/${article.slug}`} className="article-card">
-            <h3>{formatSlug(article.slug)}</h3>
+            <h3>{article.title}</h3>
             <div className="meta">Learn more</div>
           </Link>
         ))}

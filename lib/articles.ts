@@ -56,55 +56,55 @@ const categories = {
   'budgeting': {
     name: 'Budgeting',
     slug: 'budgeting',
-    image: '/images/budgeting.webp',
+    image: '/images/budgeting.svg',
     description: 'Monthly budgets, tracking expenses, and money management',
   },
   'estate-planning': {
     name: 'Estate Planning',
     slug: 'estate-planning',
-    image: '/images/estate.webp',
+    image: '/images/estate.svg',
     description: 'Wills, trusts, power of attorney, and end-of-life planning',
   },
   'insurance': {
     name: 'Insurance',
     slug: 'insurance',
-    image: '/images/insurance.webp',
+    image: '/images/insurance.svg',
     description: 'Life, health, auto, home, and disability insurance',
   },
   'debt': {
     name: 'Debt Management',
     slug: 'debt',
-    image: '/images/debt.webp',
+    image: '/images/debt.svg',
     description: 'Paying off loans, credit cards, and student debt strategies',
   },
   'banking': {
     name: 'Banking',
     slug: 'banking',
-    image: '/images/banking.webp',
+    image: '/images/banking.svg',
     description: 'Choosing banks, digital banking, and account types',
   },
   'career': {
     name: 'Career & Income',
     slug: 'career',
-    image: '/images/career.webp',
+    image: '/images/career.svg',
     description: 'Salary negotiation, side hustles, and income growth',
   },
   'family': {
     name: 'Family Finance',
     slug: 'family',
-    image: '/images/family.webp',
+    image: '/images/family.svg',
     description: 'RESP, teaching kids about money, and family finances',
   },
   'climate': {
     name: 'Climate Finance',
     slug: 'climate',
-    image: '/images/climate.webp',
+    image: '/images/climate.svg',
     description: 'ESG investing, green bonds, and sustainable finance',
   },
   'planning': {
     name: 'Financial Planning',
     slug: 'planning',
-    image: '/images/planning.webp',
+    image: '/images/planning.svg',
     description: 'Goal setting, net worth, and comprehensive financial plans',
   },
 }
@@ -146,8 +146,13 @@ export async function getArticlesByCategory(categorySlug: string) {
     
     return files.map(filename => {
       const slug = filename.replace('.md', '')
+      const filePath = path.join(dirPath, filename)
+      const content = fs.readFileSync(filePath, 'utf-8')
+      const titleMatch = content.match(/^# (.+)$/m)
+      const title = titleMatch ? titleMatch[1].trim() : formatSlug(slug)
       return {
         slug,
+        title,
         filename: `${folder}/${filename}`,
       }
     })
