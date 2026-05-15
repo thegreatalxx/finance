@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
-import { getCategoryInfo, getArticlesByCategory, getArticleContent, categoryList } from '@/lib/articles'
+import { getCategoryInfo, getArticleContent, categoryList } from '@/lib/articles'
 import { remark } from 'remark'
 import remarkHtml from 'remark-html'
 import remarkGfm from 'remark-gfm'
@@ -13,12 +13,32 @@ export async function generateStaticParams() {
   const params: { category: string; slug: string }[] = []
   
   for (const cat of categoryList) {
-    const articles = await getArticlesByCategory(cat.slug)
-    for (const article of articles) {
-      params.push({
-        category: cat.slug,
-        slug: article.slug,
-      })
+    const fs = (await import('fs')).default
+    const path = await import('path')
+    
+    const folderMap: Record<string, string> = {
+      'investing': 'Investing',
+      'saving': 'Saving',
+      'taxes': 'Taxes',
+      'accounts': 'Accounts',
+      'home-buying': 'Home buying',
+      'retirement': 'Retirement',
+      'crypto': 'Crypto',
+      'options': 'Options',
+      'borrowing': 'Borrowing',
+    }
+    
+    const folder = folderMap[cat.slug]
+    if (folder) {
+      try {
+        const files = fs.readdirSync(path.join(process.cwd(), folder)).filter(f => f.endsWith('.md'))
+        for (const filename of files) {
+          params.push({
+            category: cat.slug,
+            slug: filename.replace('.md', ''),
+          })
+        }
+      } catch {}
     }
   }
   
@@ -47,34 +67,23 @@ export default async function ArticlePage({ params }: Props) {
   const contentHtml = processedContent.toString()
 
   return (
-    <main>
-      <div className="article-detail">
-        <div className="breadcrumb">
-          <Link href="/">Learn</Link>
-          <span>›</span>
-          <Link href={`/${params.category}`}>{category.name}</Link>
-          <span>›</span>
-          <span>Article</span>
-        </div>
-
-        <h1>{article.title}</h1>
-        <div className="author">By {article.author} · Updated {article.date}</div>
-
-        <div className="article-content" dangerouslySetInnerHTML={{ __html: contentHtml }} />
-
-        <div className="disclaimer">
-          <strong>Disclaimer:</strong> Wealthsimple's Learn pages are meant to be educational. Every story is sourced from and vetted by subject matter experts. This article is not investment advice, a recommendation to buy or sell assets or securities, or any other kind of professional advice.
-        </div>
-
-        <div className="related-categories">
-          {categoryList.filter(c => c.slug !== params.category).slice(0, 4).map((cat) => (
-            <Link key={cat.slug} href={`/${cat.slug}`} className="related-category">
-              <img src={cat.image} alt={cat.name} />
-              <span>{cat.name}</span>
-            </Link>
-          ))}
-        </div>
+    <div>
+      <div className="breadcrumb">
+        <Link href="/">Learn</Link>
+        <span>›</span>
+        <Link href={`/${params.category}`}>{category.name}</Link>
+        <span>›</span>
+        <span>Article</span>
       </div>
-    </main>
+
+      <h1>{article.title}</h1>
+      <div className="author">By {article.author} · Updated {article.date}</div>
+
+      <div className="article-content" dangerouslySetInnerHTML={{ __html: contentHtml }} />
+
+      <div className="disclaimer">
+        <strong>Disclaimer:</strong> Wealthsimple's Learn pages are meant to be educational. Every story is sourced from and vetted by subject matter experts. This article is not investment advice.
+      </div>
+    </div>
   )
 }
