@@ -62,7 +62,7 @@ const folderMap: Record<string, string> = {
   'saving': 'Saving',
   'taxes': 'Taxes',
   'accounts': 'Accounts',
-  'home-buying': 'Home buying',
+  'home-buying': 'Home Buying',
   'retirement': 'Retirement',
   'crypto': 'Crypto',
   'options': 'Options',
@@ -106,8 +106,8 @@ export async function getArticleContent(categorySlug: string, articleSlug: strin
     const fileContent = fs.readFileSync(filePath, 'utf-8')
     
     const titleMatch = fileContent.match(/^# (.+)$/m)
-    const authorMatch = fileContent.match(/^By(.+)$/m)
-    const dateMatch = fileContent.match(/^Updated(.+)$/m)
+    const authorMatch = fileContent.match(/^By\s*(.+)$/m)
+    const dateMatch = fileContent.match(/^Updated\s*(.+)$/m)
     
     return {
       content: fileContent,
@@ -125,3 +125,7 @@ export function getCategoryInfo(slug: string) {
 }
 
 export { categories }
+
+export function formatSlug(slug: string): string {
+  return slug.replace(/-/g, ' ').replace(/_/g, ' ').replace(/^\d+ /, '')
+}

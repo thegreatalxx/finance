@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
-import { getCategoryInfo, getArticlesByCategory, categoryList } from '@/lib/articles'
+import { getCategoryInfo, getArticlesByCategory, categoryList, formatSlug } from '@/lib/articles'
 
 interface Props {
   params: { category: string }
@@ -19,10 +19,6 @@ export async function generateMetadata({ params }: Props) {
     title: `${category.name} | TheAlxLabs Finance Learn`,
     description: category.description,
   }
-}
-
-function formatSlug(slug: string): string {
-  return slug.replace(/-/g, ' ').replace(/_/g, ' ').replace(/^\d+ /, '')
 }
 
 export default async function CategoryPage({ params }: Props) {
