@@ -6,9 +6,9 @@ UpdatedJanuary 7, 2026
 
 ---
 
-Wealthsimple's education team is made up of writers and financial experts dedicated to making the world of finance easy to understand and not-at-all boring to read.
+TheAlxLabs Finance.
 
-Morgana Clarke is a Product Marketing Manager at Wealthsimple, focusing on the company’s Spend and Save products. With a decade of experience in marketing — six of those in tech — she drives go-to-market strategy and positioning, and supports product adoption. Morgana works cross-functionally with marketing, product, design, growth, and CX teams to ensure clear messaging and seamless execution, and she is always focused on putting the client first.
+Morgana Clarke is a Product Marketing Manager at TheAlxLabs Finance. With a decade of experience in marketing — six of those in tech — she drives go-to-market strategy and positioning, and supports product adoption. Morgana works cross-functionally with marketing, product, design, growth, and CX teams to ensure clear messaging and seamless execution, and she is always focused on putting the client first.
 
 Cash back credit cards are a type of credit card that gives you a percentage of your purchases made back in the form of cash. Cash back is earned by making everyday purchases using your credit card (some credit cards may offer a higher cash back percentage for spending in certain categories), and can typically be redeemed as a credit on your statement, or sometimes as a gift card or direct payout.
 
@@ -98,7 +98,7 @@ Plan to use your card for everyday spending that spans most categories? Consider
 
 In any scenario, you’ll also want to consider whether or not there’s a cap on eligible cash back too, since that can impact how much you earn overall.
 
-Wealthsimple’s Learn pages are meant to be educational. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by Wealthsimple Investments Inc. (“Wealthsimple”) or one of its affiliates, these articles are not investment advice, a recommendation to buy or sell assets or securities, or any other kind of professional advice. If you are interested in learning about how Wealthsimple products or features work, please visit the Help Centre. If you are interested in knowing which products are offered by Wealthsimple and which are offered by affiliates, we’ve got a page to help you with that, too.
+TheAlxLabs Finance. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by TheAlxLabs Finance. (“TheAlxLabs Finance. If you are interested in learning about how TheAlxLabs Finance. If you are interested in knowing which products are offered by TheAlxLabs Finance.
 
 ## Spend and save with one account
 

@@ -6,7 +6,7 @@ UpdatedMarch 23, 2026
 
 ---
 
-Wealthsimple's education team is made up of writers and financial experts dedicated to making the world of finance easy to understand and not-at-all boring to read.
+TheAlxLabs Finance.
 
 ## Table of contents
 
@@ -52,7 +52,7 @@ This guide covers how to build a retirement budget, calculate safe withdrawal ra
 
 ## Get a sophisticated, personalized portfolio in minutes
 
-You could research your own stocks and bonds to make sure you’re perfectly diversified. Or you could open a Wealthsimple Managed Investing account and let us do it all for you. Either way is cool. Open a Managed Investing account
+You could research your own stocks and bonds to make sure you’re perfectly diversified. Or you could open a TheAlxLabs Finance. Either way is cool. Open a Managed Investing account
 
 ## Start with your retirement budget
 
@@ -118,9 +118,9 @@ Many people wait too long to start withdrawing from their RRSP. When you turn 72
 
 Tax rules and withdrawal strategies can be complex, so consider speaking with a qualified financial planner or tax professional about your situation.
 
-Transfer to Wealthsimple
+Transfer to TheAlxLabs Finance
 
-## Have questions about moving to Wealthsimple?
+## Have questions about moving to TheAlxLabs Finance
 
 Get instant support from our AI assistant. Call: 1-778-949-2556
 
@@ -170,7 +170,7 @@ TFSAs are simpler, especially if you named your spouse as a successor holder. Th
 
 Without a beneficiary, TFSA assets go to an heir who must move them into their own TFSA (if they have contribution room) or pay taxable gains on growth after your passing.
 
-Wealthsimple’s Learn pages are meant to be educational. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by Wealthsimple Investments Inc. (“Wealthsimple”) or one of its affiliates, these articles are not investment advice, a recommendation to buy or sell assets or securities, or any other kind of professional advice. If you are interested in learning about how Wealthsimple products or features work, please visit the Help Centre. If you are interested in knowing which products are offered by Wealthsimple and which are offered by affiliates, we’ve got a page to help you with that, too.
+TheAlxLabs Finance. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by TheAlxLabs Finance. (“TheAlxLabs Finance. If you are interested in learning about how TheAlxLabs Finance. If you are interested in knowing which products are offered by TheAlxLabs Finance.
 
 ## Frequently asked questions about savings in retirement
 

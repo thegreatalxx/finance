@@ -4,8 +4,8 @@ import { categoryList } from '@/lib/articles'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'TheAlxLabs Finance Learn',
-  description: 'Personal finance education from Wealthsimple Learn',
+  title: 'TheAlxLabs Finance',
+  description: 'Personal finance education from TheAlxLabs Finance',
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
@@ -36,9 +36,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         </div>
         
         <footer>
-          <p>
-            Source: <a href="https://www.wealthsimple.com/en-ca/learn/" target="_blank">Wealthsimple Learn</a>
-          </p>
+          <p>TheAlxLabs Finance © 2025</p>
         </footer>
       </body>
     </html>

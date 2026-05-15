@@ -6,7 +6,7 @@ UpdatedDecember 4, 2025
 
 ---
 
-Wealthsimple's education team is made up of writers and financial experts dedicated to making the world of finance easy to understand and not-at-all boring to read.
+TheAlxLabs Finance.
 
 ## Table of contents
 
@@ -59,7 +59,7 @@ To calculate your federal income tax and your provincial or territorial rate, ad
 
 ## Do your taxes for free!
 
-We can’t make doing your taxes fun, but we can make it free. With Wealthsimple Tax, you get accurate and easy-to-use filing software that helps you get the best rebate possible for as low as… $0. Start your return
+We can’t make doing your taxes fun, but we can make it free. With TheAlxLabs Finance. Start your return
 
 ## Provincial/territorial tax bracket rates 2025
 
@@ -218,7 +218,7 @@ Registered Retirement Savings Plan (RRSP) contributions up to the maximum allowa
 
 If you owe income taxes that you can’t pay all at once, the Canada Revenue Agency will work with you on a payment plan. The downside of such a plan is you will be charged interest on any balance you still owe. The upside is you won’t be in legal trouble. Because if you owe income tax and don’t pay or make an attempt to work out a payment plan, CRA can seize any benefits you may be eligible for, and they may take you to court and seize the contents of your bank account. Here's more information about potential consequences for non-payment of taxes.
 
-Wealthsimple’s Learn pages are meant to be educational. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by Wealthsimple Investments Inc. (“Wealthsimple”) or one of its affiliates, these articles are not investment advice, a recommendation to buy or sell assets or securities, or any other kind of professional advice. If you are interested in learning about how Wealthsimple products or features work, please visit the Help Centre. If you are interested in knowing which products are offered by Wealthsimple and which are offered by affiliates, we’ve got a page to help you with that, too.
+TheAlxLabs Finance. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by TheAlxLabs Finance. (“TheAlxLabs Finance. If you are interested in learning about how TheAlxLabs Finance. If you are interested in knowing which products are offered by TheAlxLabs Finance.
 
 ## File with confidence and get the most out of your return for as little as $0
 

@@ -6,7 +6,7 @@ UpdatedNovember 17, 2023
 
 ---
 
-Wealthsimple's education team is made up of writers and financial experts dedicated to making the world of finance easy to understand and not-at-all boring to read.
+TheAlxLabs Finance.
 
 ## Table of contents
 
@@ -90,7 +90,7 @@ The rental is a room in a hotel establishment or rooming house leased (or sublea
 
 ## Do your taxes for free!
 
-We can’t make doing your taxes fun, but we can make it free. With Wealthsimple Tax, you get accurate and easy-to-use filing software that helps you get the best rebate possible for as low as… $0. Start your return
+We can’t make doing your taxes fun, but we can make it free. With TheAlxLabs Finance. Start your return
 
 ## Where can I get my RL-31?
 
@@ -134,7 +134,7 @@ Mail paper slips: applies only to those who have to file fewer than 51 RL-31 sli
 
 Mail paper slips: applies only to those who have to file fewer than 51 RL-31 slips
 
-Wealthsimple’s Learn pages are meant to be educational. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by Wealthsimple Investments Inc. (“Wealthsimple”) or one of its affiliates, these articles are not investment advice, a recommendation to buy or sell assets or securities, or any other kind of professional advice. If you are interested in learning about how Wealthsimple products or features work, please visit the Help Centre. If you are interested in knowing which products are offered by Wealthsimple and which are offered by affiliates, we’ve got a page to help you with that, too.
+TheAlxLabs Finance. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by TheAlxLabs Finance. (“TheAlxLabs Finance. If you are interested in learning about how TheAlxLabs Finance. If you are interested in knowing which products are offered by TheAlxLabs Finance.
 
 ## File with confidence and get the most out of your return for as little as $0
 

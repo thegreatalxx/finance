@@ -49,7 +49,7 @@ export async function generateMetadata({ params }: Props) {
   const category = getCategoryInfo(params.category)
   const title = formatSlug(params.slug)
   return {
-    title: `${title} | ${category?.name || 'Article'} | TheAlxLabs Finance Learn`,
+    title: `${title} | ${category?.name || 'Article'} | TheAlxLabs Finance`,
   }
 }
 

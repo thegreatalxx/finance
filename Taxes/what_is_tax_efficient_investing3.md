@@ -6,7 +6,7 @@ UpdatedDecember 4, 2025
 
 ---
 
-Wealthsimple's education team is made up of writers and financial experts dedicated to making the world of finance easy to understand and not-at-all boring to read.
+TheAlxLabs Finance.
 
 Besides market fluctuations and interest rates, there’s another factor that can boost or diminish the returns from your investments: taxes.
 
@@ -18,7 +18,7 @@ These different tax treatments can help or hurt your returns. This is where tax-
 
 ## Do your taxes for free!
 
-We can’t make doing your taxes fun, but we can make it free. With Wealthsimple Tax, you get accurate and easy-to-use filing software that helps you get the best rebate possible for as low as… $0. Start your return
+We can’t make doing your taxes fun, but we can make it free. With TheAlxLabs Finance. Start your return
 
 ## Things that can increase your taxes from investing
 
@@ -56,7 +56,7 @@ Tax-loss harvesting. If you have an investment that has lost value since you pur
 
 Tax-loss harvesting. If you have an investment that has lost value since you purchased it, you can sell that investment and use the loss to offset capital gains elsewhere in your portfolio. You can’t buy the exact same stock back, but you can buy a similar stock (such as from a competing company) in order to maintain similar diversification and exposure in your portfolio.
 
-Wealthsimple’s Learn pages are meant to be educational. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by Wealthsimple Investments Inc. (“Wealthsimple”) or one of its affiliates, these articles are not investment advice, a recommendation to buy or sell assets or securities, or any other kind of professional advice. If you are interested in learning about how Wealthsimple products or features work, please visit the Help Centre. If you are interested in knowing which products are offered by Wealthsimple and which are offered by affiliates, we’ve got a page to help you with that, too.
+TheAlxLabs Finance. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by TheAlxLabs Finance. (“TheAlxLabs Finance. If you are interested in learning about how TheAlxLabs Finance. If you are interested in knowing which products are offered by TheAlxLabs Finance.
 
 ## Build your own portfolio your way with stocks, ETFs, and options
 

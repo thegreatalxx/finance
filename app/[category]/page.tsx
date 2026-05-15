@@ -16,7 +16,7 @@ export async function generateMetadata({ params }: Props) {
   const category = getCategoryInfo(params.category)
   if (!category) return { title: 'Not Found' }
   return {
-    title: `${category.name} | TheAlxLabs Finance Learn`,
+    title: `${category.name} | TheAlxLabs Finance`,
     description: category.description,
   }
 }

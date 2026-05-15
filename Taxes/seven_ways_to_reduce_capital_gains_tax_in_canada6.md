@@ -6,7 +6,7 @@ UpdatedApril 13, 2026
 
 ---
 
-Wealthsimple's education team is made up of writers and financial experts dedicated to making the world of finance easy to understand and not-at-all boring to read.
+TheAlxLabs Finance.
 
 There are plenty of legal ways to reduce capital gains taxes in Canada, including tax shelters like RRSPs, the practice of offsetting capital losses, or deferring your gains until you have offsetting losses. You can also donate your shares to charity, or try two tricky manoevres — a capital gain reserve or using the lifetime capital gain exemption.
 
@@ -66,7 +66,7 @@ A Registered Education Savings Plan (RESP) is another tax shelter you can use to
 
 ## Do your taxes for free!
 
-We can’t make doing your taxes fun, but we can make it free. With Wealthsimple Tax, you get accurate and easy-to-use filing software that helps you get the best rebate possible for as low as… $0. Start your return
+We can’t make doing your taxes fun, but we can make it free. With TheAlxLabs Finance. Start your return
 
 ## 2. Offset capital losses
 
@@ -98,7 +98,7 @@ It may be possible to spread the proceeds of a capital property sale over five y
 
 Under Canada’s tax laws, primary residences are exempt from capital gains taxes. This includes a residence where your spouse or common-law partner or your children resided for part of the year, even if you didn’t. A cottage or summer home can also be exempt, but not investment properties or rentals you own.
 
-Wealthsimple’s Learn pages are meant to be educational. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by Wealthsimple Investments Inc. (“Wealthsimple”) or one of its affiliates, these articles are not investment advice, a recommendation to buy or sell assets or securities, or any other kind of professional advice. If you are interested in learning about how Wealthsimple products or features work, please visit the Help Centre. If you are interested in knowing which products are offered by Wealthsimple and which are offered by affiliates, we’ve got a page to help you with that, too.
+TheAlxLabs Finance. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by TheAlxLabs Finance. (“TheAlxLabs Finance. If you are interested in learning about how TheAlxLabs Finance. If you are interested in knowing which products are offered by TheAlxLabs Finance.
 
 ## Frequently asked questions
 

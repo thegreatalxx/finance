@@ -6,7 +6,7 @@ UpdatedJanuary 29, 2026
 
 ---
 
-Wealthsimple's education team is made up of writers and financial experts dedicated to making the world of finance easy to understand and not-at-all boring to read.
+TheAlxLabs Finance.
 
 The two biggest government pension plans, Canada Pension Plan (CPP) and Old Age Security (OAS), allow you to choose when you start getting paid. But there’s a catch: the earlier you get paid, the less you get paid. If you need the money right away or are in ill health and don’t expect to live too long, early can be the right choice. But if you hold off on taking your pensions, the money you miss out on initially can be earned back — and surpassed — relatively quickly.
 
@@ -39,7 +39,7 @@ Unlike CPP, OAS doesn’t have an early option. But if you defer your payments a
 
 The calculation here is the same as with CPP. If you can wait, it often benefits you to do so. (If you think you’ll make it to your 80s, waiting often earns you more overall income.) But there is no shame in taking the money early. Either way, it can be helpful to consult a financial advisor to make sure you think through your specific situation.
 
-Wealthsimple’s Learn pages are meant to be educational. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by Wealthsimple Investments Inc. (“Wealthsimple”) or one of its affiliates, these articles are not investment advice, a recommendation to buy or sell assets or securities, or any other kind of professional advice. If you are interested in learning about how Wealthsimple products or features work, please visit the Help Centre. If you are interested in knowing which products are offered by Wealthsimple and which are offered by affiliates, we’ve got a page to help you with that, too.
+TheAlxLabs Finance. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by TheAlxLabs Finance. (“TheAlxLabs Finance. If you are interested in learning about how TheAlxLabs Finance. If you are interested in knowing which products are offered by TheAlxLabs Finance.
 
 ## Grow your retirement savings
 

@@ -6,7 +6,7 @@ UpdatedNovember 19, 2023
 
 ---
 
-Wealthsimple's education team is made up of writers and financial experts dedicated to making the world of finance easy to understand and not-at-all boring to read.
+TheAlxLabs Finance.
 
 ## Table of contents
 
@@ -42,7 +42,7 @@ For those students at a university outside Canada, you would receive a TL11A sli
 
 ## Do your taxes for free!
 
-We can’t make doing your taxes fun, but we can make it free. With Wealthsimple Tax, you get accurate and easy-to-use filing software that helps you get the best rebate possible for as low as… $0. Start your return
+We can’t make doing your taxes fun, but we can make it free. With TheAlxLabs Finance. Start your return
 
 ## How do I obtain a T2202?
 
@@ -75,7 +75,7 @@ The tuition amount is a transferable tax credit, and you can use your unused cre
 
 If there's no one to transfer the extra tax credits to, the CRA will push them to the following tax year. However, you can only transfer credits for the current tax year. Also, the CRA sets the maximum transferable amount to $5,000. It is advisable to keep all T2202 forms you receive for at least six years, since the CRA can request them at any time.
 
-Wealthsimple’s Learn pages are meant to be educational. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by Wealthsimple Investments Inc. (“Wealthsimple”) or one of its affiliates, these articles are not investment advice, a recommendation to buy or sell assets or securities, or any other kind of professional advice. If you are interested in learning about how Wealthsimple products or features work, please visit the Help Centre. If you are interested in knowing which products are offered by Wealthsimple and which are offered by affiliates, we’ve got a page to help you with that, too.
+TheAlxLabs Finance. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by TheAlxLabs Finance. (“TheAlxLabs Finance. If you are interested in learning about how TheAlxLabs Finance. If you are interested in knowing which products are offered by TheAlxLabs Finance.
 
 ## File with confidence and get the most out of your return for as little as $0
 

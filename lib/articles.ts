@@ -53,6 +53,60 @@ const categories = {
     image: '/images/borrowing.png',
     description: 'Loans, credit, and debt management',
   },
+  'budgeting': {
+    name: 'Budgeting',
+    slug: 'budgeting',
+    image: '/images/budgeting.webp',
+    description: 'Monthly budgets, tracking expenses, and money management',
+  },
+  'estate-planning': {
+    name: 'Estate Planning',
+    slug: 'estate-planning',
+    image: '/images/estate.webp',
+    description: 'Wills, trusts, power of attorney, and end-of-life planning',
+  },
+  'insurance': {
+    name: 'Insurance',
+    slug: 'insurance',
+    image: '/images/insurance.webp',
+    description: 'Life, health, auto, home, and disability insurance',
+  },
+  'debt': {
+    name: 'Debt Management',
+    slug: 'debt',
+    image: '/images/debt.webp',
+    description: 'Paying off loans, credit cards, and student debt strategies',
+  },
+  'banking': {
+    name: 'Banking',
+    slug: 'banking',
+    image: '/images/banking.webp',
+    description: 'Choosing banks, digital banking, and account types',
+  },
+  'career': {
+    name: 'Career & Income',
+    slug: 'career',
+    image: '/images/career.webp',
+    description: 'Salary negotiation, side hustles, and income growth',
+  },
+  'family': {
+    name: 'Family Finance',
+    slug: 'family',
+    image: '/images/family.webp',
+    description: 'RESP, teaching kids about money, and family finances',
+  },
+  'climate': {
+    name: 'Climate Finance',
+    slug: 'climate',
+    image: '/images/climate.webp',
+    description: 'ESG investing, green bonds, and sustainable finance',
+  },
+  'planning': {
+    name: 'Financial Planning',
+    slug: 'planning',
+    image: '/images/planning.webp',
+    description: 'Goal setting, net worth, and comprehensive financial plans',
+  },
 }
 
 export const categoryList = Object.values(categories)
@@ -67,6 +121,15 @@ const folderMap: Record<string, string> = {
   'crypto': 'Crypto',
   'options': 'Options',
   'borrowing': 'Borrowing',
+  'budgeting': 'Budgeting',
+  'estate-planning': 'Estate Planning',
+  'insurance': 'Insurance',
+  'debt': 'Debt',
+  'banking': 'Banking',
+  'career': 'Career',
+  'family': 'Family',
+  'climate': 'Climate',
+  'planning': 'Planning',
 }
 
 export async function getArticlesByCategory(categorySlug: string) {

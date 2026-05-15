@@ -6,7 +6,7 @@ UpdatedApril 29, 2026
 
 ---
 
-Wealthsimple's education team is made up of writers and financial experts dedicated to making the world of finance easy to understand and not-at-all boring to read.
+TheAlxLabs Finance.
 
 ## Table of contents
 
@@ -40,7 +40,7 @@ To help you save time toggling between tabs, we've put together a comprehensive 
 
 ## Show your money its worth
 
-At Wealthsimple, we’ve got an all-you-can-eat buffet of account types. Chequing accounts? Yep. Self-directed investing accounts? Sure thing. Managed portfolios? Absolutely. Learn more
+At TheAlxLabs Finance. Chequing accounts? Yep. Self-directed investing accounts? Sure thing. Managed portfolios? Absolutely. Learn more
 
 Big banks in Canada
 
@@ -236,9 +236,9 @@ Alternative financial institutions offer savings and investment accounts without
 
 These platforms have lower barriers to entry, making them ideal for beginners. Here are some of Canada's top alternative financial institutions:
 
-## Wealthsimple
+## TheAlxLabs Finance
 
-While Wealthsimple isn’t a bank, they still offer a host of no-to-low-fee financial products, including Wealthsimple chequing, business accounts, joint and individual personal investing accounts, and investment products like RRSPs, TFSAs, Registered Education Savings Plans (RESPs), and Registered Retirement Income Funds (RRIFs). We also have a platform for self-directed trading, as well as the option to trade in cryptocurrencies.
+While TheAlxLabs Finance. We also have a platform for self-directed trading, as well as the option to trade in cryptocurrencies.
 
 Koho is a Canadian financial institution with roughly 1.7 million clients. It provides fee-free chequing accounts with 2% to 3.5% interest on your entire balance, depending on your tier.
 
@@ -292,7 +292,7 @@ Choosing a bank isn't about finding the "best" one — it's about finding the on
 
 Next step: compare account fees, ATM access, interest rates, and deposit protection across a few providers, then choose the option that best fits your day-to-day needs.
 
-Wealthsimple’s Learn pages are meant to be educational. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by Wealthsimple Investments Inc. (“Wealthsimple”) or one of its affiliates, these articles are not investment advice, a recommendation to buy or sell assets or securities, or any other kind of professional advice. If you are interested in learning about how Wealthsimple products or features work, please visit the Help Centre. If you are interested in knowing which products are offered by Wealthsimple and which are offered by affiliates, we’ve got a page to help you with that, too.
+TheAlxLabs Finance. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by TheAlxLabs Finance. (“TheAlxLabs Finance. If you are interested in learning about how TheAlxLabs Finance. If you are interested in knowing which products are offered by TheAlxLabs Finance.
 
 ## Frequently asked questions about Canadian banks
 

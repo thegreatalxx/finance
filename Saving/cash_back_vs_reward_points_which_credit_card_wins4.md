@@ -6,9 +6,9 @@ UpdatedApril 7, 2026
 
 ---
 
-Wealthsimple's education team is made up of writers and financial experts dedicated to making the world of finance easy to understand and not-at-all boring to read.
+TheAlxLabs Finance.
 
-Morgana Clarke is a Product Marketing Manager at Wealthsimple, focusing on the company’s Spend and Save products. With a decade of experience in marketing — six of those in tech — she drives go-to-market strategy and positioning, and supports product adoption. Morgana works cross-functionally with marketing, product, design, growth, and CX teams to ensure clear messaging and seamless execution, and she is always focused on putting the client first.
+Morgana Clarke is a Product Marketing Manager at TheAlxLabs Finance. With a decade of experience in marketing — six of those in tech — she drives go-to-market strategy and positioning, and supports product adoption. Morgana works cross-functionally with marketing, product, design, growth, and CX teams to ensure clear messaging and seamless execution, and she is always focused on putting the client first.
 
 ## Table of contents
 
@@ -186,7 +186,7 @@ Complexity of earning and redeeming | Simple: Earn a fixed percentage (e.g., 1% 
 Redemption options | Statement credits; gift cards; direct payouts | Travel; gift cards; merchandise
 Who does it make sense for | People who want easy, flexible rewards | People willing to strategically redeem for higher value
 
-Wealthsimple’s Learn pages are meant to be educational. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by Wealthsimple Investments Inc. (“Wealthsimple”) or one of its affiliates, these articles are not investment advice, a recommendation to buy or sell assets or securities, or any other kind of professional advice. If you are interested in learning about how Wealthsimple products or features work, please visit the Help Centre. If you are interested in knowing which products are offered by Wealthsimple and which are offered by affiliates, we’ve got a page to help you with that, too.
+TheAlxLabs Finance. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by TheAlxLabs Finance. (“TheAlxLabs Finance. If you are interested in learning about how TheAlxLabs Finance. If you are interested in knowing which products are offered by TheAlxLabs Finance.
 
 ## Frequently asked questions about cash back versus reward points
 

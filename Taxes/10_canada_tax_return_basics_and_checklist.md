@@ -6,7 +6,7 @@ UpdatedFebruary 13, 2026
 
 ---
 
-Wealthsimple's education team is made up of writers and financial experts dedicated to making the world of finance easy to understand and not-at-all boring to read.
+TheAlxLabs Finance.
 
 ## Table of contents
 
@@ -48,7 +48,7 @@ Each individual is responsible for filing their own tax return. Filing an income
 
 ## Do your taxes for free!
 
-We can’t make doing your taxes fun, but we can make it free. With Wealthsimple Tax, you get accurate and easy-to-use filing software that helps you get the best rebate possible for as low as… $0. Start your return
+We can’t make doing your taxes fun, but we can make it free. With TheAlxLabs Finance. Start your return
 
 ## Who should file a tax return?
 
@@ -66,7 +66,7 @@ Additional rules apply to non-residents of Canada, including those with rental i
 
 Individuals can either use a tax preparer, such as an accountant, or do their own tax return using tax return software.
 
-If you choose to have your taxes prepared by a professional, you will need to have all relevant documents ready to go before your appointment. Professional tax preparers file personal tax returns using the CRA’s EFILE system. If you use tax return software, such as Wealthsimple Tax, you will use the CRA’s NETFILE system to file your tax return.
+If you choose to have your taxes prepared by a professional, you will need to have all relevant documents ready to go before your appointment. Professional tax preparers file personal tax returns using the CRA’s EFILE system. If you use tax return software, such as TheAlxLabs Finance.
 
 Tax preparation software comes with a tax return calculator that tallies up your refund or taxes owed as you go through the prompts. Your CRA tax return filing must include all earned income for the tax year — from January 1 through December 31. The standard Canada tax return filing deadline is April 30 of each year for the previous year’s return. If you or your spouse are self-employed, the filing deadline is June 15. (Note that any amount owing to the CRA must be paid by April 30, regardless of filer status.)
 
@@ -440,7 +440,7 @@ Information related to Air Quality/Clean Building retrofits (Fed, BC), Community
 
 Information related to Air Quality/Clean Building retrofits (Fed, BC), Community Enterprise Development (MB), Resort Property Investments (NL), Book Publishing or Cultural Industries Printing (MB)
 
-Wealthsimple’s Learn pages are meant to be educational. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by Wealthsimple Investments Inc. (“Wealthsimple”) or one of its affiliates, these articles are not investment advice, a recommendation to buy or sell assets or securities, or any other kind of professional advice. If you are interested in learning about how Wealthsimple products or features work, please visit the Help Centre. If you are interested in knowing which products are offered by Wealthsimple and which are offered by affiliates, we’ve got a page to help you with that, too.
+TheAlxLabs Finance. Every story is sourced from and vetted by subject matter experts, and produced by journalists with decades of media experience — people whose primary goal is to teach you something, rather than sell you something. While there may be links included in the article about products that are offered by TheAlxLabs Finance. (“TheAlxLabs Finance. If you are interested in learning about how TheAlxLabs Finance. If you are interested in knowing which products are offered by TheAlxLabs Finance.
 
 ## File with confidence and get the most out of your return for as little as $0
 
