@@ -21,7 +21,7 @@ export async function generateStaticParams() {
       'saving': 'Saving',
       'taxes': 'Taxes',
       'accounts': 'Accounts',
-      'home-buying': 'Home Buying',
+      'home-buying': 'Home buying',
       'retirement': 'Retirement',
       'crypto': 'Crypto',
       'options': 'Options',
