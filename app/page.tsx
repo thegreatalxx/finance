@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import { categoryList } from '@/lib/articles'
+import { CategoryIcon } from '@/components/CategoryIcon'
 
 export default function HomePage() {
   return (
@@ -17,9 +18,7 @@ export default function HomePage() {
           const size = index < 2 ? 'large' : index < 6 ? 'medium' : 'small'
           return (
             <Link key={category.slug} href={`/${category.slug}`} className={`category-card ${size}`}>
-              <div className="category-icon">
-                <img src={category.image} alt={category.name} />
-              </div>
+              <CategoryIcon slug={category.slug} />
               <h3>{category.name}</h3>
               <p>{category.description}</p>
             </Link>
