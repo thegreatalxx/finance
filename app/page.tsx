@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import { categoryList } from '@/lib/articles'
-import { CategoryIcon } from '@/components/CategoryIcon'
+import { CategoryIcon } from './layout'
 
 export default function HomePage() {
   return (
