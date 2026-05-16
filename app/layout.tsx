@@ -2,7 +2,6 @@
 
 import { useEffect, useState } from 'react'
 import Link from 'next/link'
-import { categoryList } from '@/lib/articles'
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   const [theme, setTheme] = useState('light')
@@ -30,13 +29,19 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   ]
 
   return (
-    <html lang="en">
+    <html lang="en" suppressHydrationWarning>
+      <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+        <link href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600;9..40,700&family=Instrument+Serif&display=swap" rel="stylesheet" />
+      </head>
       <body>
         <div className="layout">
           <nav className="nav">
             <div className="nav-inner">
               <Link href="/" className="nav-logo">
-                <svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg" width="32" height="32">
                   <rect width="32" height="32" rx="8" fill="#e3b94d"/>
                   <path d="M8 24V12L16 8L24 12V24L16 20L8 24Z" stroke="#1a1a1a" strokeWidth="2" fill="none"/>
                   <circle cx="16" cy="14" r="3" fill="#1a1a1a"/>
