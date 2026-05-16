@@ -56,37 +56,37 @@ const categories = {
   'budgeting': {
     name: 'Budgeting',
     slug: 'budgeting',
-    image: '/images/budgeting.png',
+    image: '/images/Wealthsimple Budgeting Icon.png',
     description: 'Monthly budgets, tracking expenses, and money management',
   },
   'estate-planning': {
     name: 'Estate Planning',
     slug: 'estate-planning',
-    image: '/images/estate_planning.png',
+    image: '/images/Estate Planning Icon.png',
     description: 'Wills, trusts, power of attorney, and end-of-life planning',
   },
   'insurance': {
     name: 'Insurance',
     slug: 'insurance',
-    image: '/images/insurance.png',
+    image: '/images/Wealthsimple Insurance Icon.png',
     description: 'Life, health, auto, home, and disability insurance',
   },
   'debt': {
     name: 'Debt Management',
     slug: 'debt',
-    image: '/images/debt_management.png',
+    image: '/images/Debt Management Icon.png',
     description: 'Paying off loans, credit cards, and student debt strategies',
   },
   'banking': {
     name: 'Banking',
     slug: 'banking',
-    image: '/images/banking.png',
+    image: '/images/Wealthsimple Banking Icon.png',
     description: 'Choosing banks, digital banking, and account types',
   },
   'career': {
     name: 'Career & Income',
     slug: 'career',
-    image: '/images/career_income.png',
+    image: '/images/Wealthsimple Design System Icon.png',
     description: 'Salary negotiation, side hustles, and income growth',
   },
   'family': {
@@ -98,7 +98,7 @@ const categories = {
   'climate': {
     name: 'Climate Finance',
     slug: 'climate',
-    image: '/images/climate_finance.png',
+    image: '/images/Climate Finance Icon.png',
     description: 'ESG investing, green bonds, and sustainable finance',
   },
   'planning': {
