@@ -1,15 +1,17 @@
 import Link from 'next/link'
 import { categoryList } from '@/lib/articles'
+import SearchBox from '@/components/SearchBox'
 
 export default function HomePage() {
   return (
     <div className="home-content">
-      <h1>Personal finance 101</h1>
+      <h1>Personal Finance 101</h1>
       <p className="intro">
-        Personal finance is the art of managing your money. How much to save, where to invest 
-        and how to budget. None of us are born knowing how to put together a smart, simple 
-        financial plan. That's why we're here.
+        Expert financial guidance for Canadians. From RRSPs to stock trading, 
+        learn everything you need to build wealth and secure your future.
       </p>
+
+      <SearchBox />
 
       <div className="category-grid">
         {categoryList.map((category) => (

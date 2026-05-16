@@ -197,3 +197,44 @@ export { categories }
 export function formatSlug(slug: string): string {
   return slug.replace(/-/g, ' ').replace(/_/g, ' ').replace(/^\d+ /, '')
 }
+
+export function calculateReadingTime(content: string): number {
+  const wordsPerMinute = 200
+  const words = content.split(/\s+/).length
+  return Math.ceil(words / wordsPerMinute)
+}
+
+export async function getAllArticles() {
+  const fs = (await import('fs')).default
+  const path = await import('path')
+  
+  const articles: { slug: string; title: string; category: string; categoryName: string; categorySlug: string }[] = []
+
+  for (const [catSlug, folder] of Object.entries(folderMap)) {
+    const dirPath = path.join(process.cwd(), folder)
+    
+    try {
+      const files = fs.readdirSync(dirPath).filter(f => f.endsWith('.md'))
+      
+      for (const filename of files) {
+        const slug = filename.replace('.md', '')
+        const filePath = path.join(dirPath, filename)
+        const content = fs.readFileSync(filePath, 'utf-8')
+        const titleMatch = content.match(/^# (.+)$/m)
+        const title = titleMatch ? titleMatch[1].trim() : formatSlug(slug)
+        
+        const catInfo = getCategoryInfo(catSlug)
+        
+        articles.push({
+          slug,
+          title,
+          category: folder,
+          categoryName: catInfo?.name || catSlug,
+          categorySlug: catSlug,
+        })
+      }
+    } catch {}
+  }
+
+  return articles
+}
