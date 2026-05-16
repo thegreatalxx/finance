@@ -104,7 +104,7 @@ const categories = {
   'planning': {
     name: 'Financial Planning',
     slug: 'planning',
-    image: '/images/planning.svg',
+    image: '/images/planning.png',
     description: 'Goal setting, net worth, and comprehensive financial plans',
   },
 }
