@@ -138,21 +138,25 @@ body {
   gap: 8px;
   padding-top: 1rem;
   border-top: 1px solid var(--border);
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-items: center;
 }
 
 .theme-toggle,
 .mobile-menu-btn {
-  width: 40px;
-  height: 40px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  width: 36px;
+  height: 36px;
+  flex-shrink: 0;
   border: none;
   background: var(--bg-secondary);
   border-radius: 10px;
   color: var(--text-secondary);
   cursor: pointer;
   transition: all 0.2s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .theme-toggle:hover,
